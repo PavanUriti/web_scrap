@@ -3,16 +3,16 @@
     {
       "title": "Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders",
       "url": "https://pmf.firstround.com/levels",
-      "comments": 7,
-      "score": 44,
+      "comments": 19,
+      "score": 62,
       "user": "yarapavan",
       "age": "1 hour ago"
     },
     {
       "title": "Loading a trillion rows of weather data into TimescaleDB",
       "url": "https://aliramadhan.me/2024/03/31/trillion-rows.html",
-      "comments": 46,
-      "score": 106,
+      "comments": 50,
+      "score": 117,
       "user": "PolarizedPoutin",
       "age": "2 hours ago"
     },
@@ -20,41 +20,49 @@
       "title": "A visual guide to Vision Transformer – A scroll story",
       "url": "https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html",
       "comments": 4,
-      "score": 48,
+      "score": 61,
       "user": "md2rp",
       "age": "1 hour ago"
     },
     {
       "title": "Justice Department to File Antitrust Suit Against Live Nation",
       "url": "https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268",
-      "comments": 8,
-      "score": 122,
+      "comments": 12,
+      "score": 143,
       "user": "coloneltcb",
       "age": "1 hour ago"
     },
     {
+      "title": "Authorization is still a nightmare for engineers",
+      "url": "https://www.osohq.com/post/distributed-authorization",
+      "comments": 0,
+      "score": 6,
+      "user": "AnhTho_FR",
+      "age": "32 minutes ago"
+    },
+    {
       "title": "AMD unveils Ryzen Pro 8000-series processors",
       "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market",
-      "comments": 41,
-      "score": 55,
+      "comments": 49,
+      "score": 67,
       "user": "marban",
       "age": "1 hour ago"
     },
     {
-      "title": "Creating sexually explicit deepfake images to be made offence in UK",
-      "url": "https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk",
-      "comments": 10,
-      "score": 21,
-      "user": "thunderbong",
-      "age": "32 minutes ago"
-    },
-    {
       "title": "BTFS: BitTorrent Filesystem",
       "url": "https://github.com/johang/btfs",
-      "comments": 89,
-      "score": 297,
+      "comments": 90,
+      "score": 300,
       "user": "pyinstallwoes",
       "age": "15 hours ago"
+    },
+    {
+      "title": "Tech exec predicts 'AI girlfriends' will create $1B business",
+      "url": "https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/",
+      "comments": 4,
+      "score": 10,
+      "user": "CharlesW",
+      "age": "12 minutes ago"
     },
     {
       "title": "OneSignal (YC S11) Is Hiring Engineers",
@@ -65,140 +73,148 @@
       "age": "3 hours ago"
     },
     {
+      "title": "YouTube cracking down even harder to punish user for skipping ads",
+      "url": "https://9to5google.com/2024/04/15/youtube-app-block-ads/",
+      "comments": 14,
+      "score": 22,
+      "user": "dbajaj",
+      "age": "59 minutes ago"
+    },
+    {
       "title": "Show HN: a Rust based CLI tool 'imgcatr' for displaying images",
       "url": "https://github.com/SilinMeng0510/imgcatr",
       "comments": 35,
-      "score": 73,
+      "score": 75,
       "user": "cheeseisinsane",
       "age": "6 hours ago"
     },
     {
       "title": "HonoJS: Small, simple, and ultrafast web framework for the Edges",
       "url": "https://github.com/honojs/hono",
-      "comments": 55,
-      "score": 224,
+      "comments": 57,
+      "score": 227,
       "user": "nateb2022",
       "age": "14 hours ago"
     },
     {
-      "title": "Mobile Ad Blocker Will No Longer Stop YouTube's Ads",
-      "url": "https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797",
-      "comments": 31,
-      "score": 21,
-      "user": "Hary06",
-      "age": "1 hour ago"
-    },
-    {
       "title": "Ice to treat soft-tissue injuries contraindicated by creator of protocol",
       "url": "https://en.wikipedia.org/wiki/RICE_(medicine)",
-      "comments": 40,
-      "score": 53,
+      "comments": 43,
+      "score": 56,
       "user": "stank345",
       "age": "2 hours ago"
     },
     {
       "title": "People who don't want to learn how to program can always find a reason not to",
       "url": "https://twitter.com/paulg/status/1779930175574090094",
-      "comments": 50,
-      "score": 46,
+      "comments": 54,
+      "score": 51,
       "user": "lopkeny12ko",
-      "age": "55 minutes ago"
+      "age": "1 hour ago"
     },
     {
       "title": "ResearchAgent: Iterative Research Idea Generation Using LLMs",
       "url": "https://arxiv.org/abs/2404.07738",
-      "comments": 48,
-      "score": 101,
+      "comments": 49,
+      "score": 104,
       "user": "milliondreams",
       "age": "14 hours ago"
     },
     {
       "title": "Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]",
       "url": "https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf",
-      "comments": 10,
-      "score": 22,
+      "comments": 11,
+      "score": 24,
       "user": "luu",
       "age": "8 hours ago"
     },
     {
       "title": "Reproducing the printer hack of Windows 95",
       "url": "https://dpolakovic.space/blogs/windows-95-printer-hack",
-      "comments": 30,
-      "score": 69,
+      "comments": 31,
+      "score": 70,
       "user": "dpola",
       "age": "14 hours ago"
     },
     {
-      "title": "YouTube cracking down even harder to punish user for skipping ads",
-      "url": "https://9to5google.com/2024/04/15/youtube-app-block-ads/",
-      "comments": 3,
-      "score": 7,
-      "user": "dbajaj",
-      "age": "45 minutes ago"
-    },
-    {
       "title": "Thoughts on low latency trading if exchanges went full cloud",
       "url": "https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/",
-      "comments": 94,
-      "score": 107,
+      "comments": 97,
+      "score": 110,
       "user": "arcza",
       "age": "3 hours ago"
     },
     {
-      "title": "Ramanujan's lost notebook",
-      "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook",
-      "comments": 68,
-      "score": 253,
-      "user": "benbreen",
-      "age": "19 hours ago"
-    },
-    {
       "title": "Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun",
       "url": "https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun",
-      "comments": 51,
-      "score": 60,
+      "comments": 52,
+      "score": 61,
       "user": "c-flow",
       "age": "7 hours ago"
     },
     {
-      "title": "$10M in Gold Disguised as Machine Parts Seized from Cargo Plane",
-      "url": "https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958",
-      "comments": 74,
-      "score": 64,
-      "user": "mhb",
-      "age": "2 hours ago"
+      "title": "Ramanujan's lost notebook",
+      "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook",
+      "comments": 69,
+      "score": 256,
+      "user": "benbreen",
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Creating sexually explicit deepfake images to be made offence in UK",
+      "url": "https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk",
+      "comments": 50,
+      "score": 37,
+      "user": "thunderbong",
+      "age": "46 minutes ago"
     },
     {
       "title": "Knuth–Morris–Pratt illustrated",
       "url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4",
       "comments": 42,
-      "score": 153,
+      "score": 157,
       "user": "g0xA52A2A",
-      "age": "18 hours ago"
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Show HN: Render audio waveforms to HTML canvas using WebGPU",
+      "url": "item?id=40046774",
+      "comments": 52,
+      "score": 131,
+      "user": "aylmao",
+      "age": "16 hours ago"
     },
     {
       "title": "The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)",
       "url": "https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/",
       "comments": 2,
-      "score": 10,
+      "score": 12,
       "user": "chaosprint",
-      "age": "7 hours ago"
+      "age": "8 hours ago"
     },
     {
-      "title": "Show HN: Render audio waveforms to HTML canvas using WebGPU",
-      "url": "item?id=40046774",
-      "comments": 48,
-      "score": 130,
-      "user": "aylmao",
-      "age": "15 hours ago"
+      "title": "Quantum Disadvantage, IBM quantum vs. Commodore 64",
+      "url": "https://www.tomshardware.com/tech-industry/quantum-computing/commodore-64-outperforms-ibms-quantum-systems-1-mhz-computer-said-to-be-faster-more-efficient-and-decently-accurate",
+      "comments": 0,
+      "score": 10,
+      "user": "adrian_b",
+      "age": "3 hours ago"
+    },
+    {
+      "title": "$10M in Gold Disguised as Machine Parts Seized from Cargo Plane",
+      "url": "https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958",
+      "comments": 78,
+      "score": 65,
+      "user": "mhb",
+      "age": "2 hours ago"
     },
     {
       "title": "'The Invention of Prehistory' Review: Facing Deep Time",
       "url": "https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc",
-      "comments": 9,
+      "comments": 10,
       "score": 17,
       "user": "Hooke",
-      "age": "10 hours ago"
+      "age": "11 hours ago"
     },
     {
       "title": "Weird monitor bugs people sent me in the last 5 years (2022)",
@@ -212,7 +228,7 @@
       "title": "Learning about distributed systems: where to start? (2020)",
       "url": "http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html",
       "comments": 38,
-      "score": 160,
+      "score": 161,
       "user": "udev4096",
       "age": "17 hours ago"
     },
@@ -222,23 +238,31 @@
       "comments": 8,
       "score": 16,
       "user": "bindidwodtj",
-      "age": "13 hours ago"
-    },
-    {
-      "title": "Can You Grok It – Hacking together my own dev tunnel service",
-      "url": "https://0xda.de/blog/2024/04/can-you-grok-it/",
-      "comments": 17,
-      "score": 82,
-      "user": "0xdade",
-      "age": "13 hours ago"
+      "age": "14 hours ago"
     },
     {
       "title": "Web-based Turbo Pascal compiler",
       "url": "https://github.com/lkesteloot/turbopascal",
       "comments": 19,
-      "score": 148,
+      "score": 149,
       "user": "andsoitis",
-      "age": "22 hours ago"
+      "age": "23 hours ago"
+    },
+    {
+      "title": "Can You Grok It – Hacking together my own dev tunnel service",
+      "url": "https://0xda.de/blog/2024/04/can-you-grok-it/",
+      "comments": 17,
+      "score": 83,
+      "user": "0xdade",
+      "age": "13 hours ago"
+    },
+    {
+      "title": "Democracy Dies Behind Paywalls – Paywalled",
+      "url": "https://www.theatlantic.com/ideas/archive/2024/04/paywall-problems-media-trust-democracy/678032/",
+      "comments": 15,
+      "score": 37,
+      "user": "dschuetz",
+      "age": "10 hours ago"
     },
     {
       "title": "Mini rope bridges built in Forest of Dean to help dormice",
@@ -249,20 +273,12 @@
       "age": "20 hours ago"
     },
     {
-      "title": "Democracy Dies Behind Paywalls – Paywalled",
-      "url": "https://www.theatlantic.com/ideas/archive/2024/04/paywall-problems-media-trust-democracy/678032/",
-      "comments": 12,
-      "score": 34,
-      "user": "dschuetz",
-      "age": "10 hours ago"
-    },
-    {
       "title": "Lawyer divorces wrong couple through dropdown selection error",
       "url": "https://www.lawgazette.co.uk/news/firm-pledges-full-support-to-lawyer-over-online-divorce-mistake/5119365.article",
-      "comments": 16,
+      "comments": 17,
       "score": 59,
       "user": "jackweirdy",
-      "age": "20 hours ago"
+      "age": "21 hours ago"
     },
     {
       "title": "Histomap: Visualizing the 4000 year history of global power (2021)",
@@ -273,14 +289,6 @@
       "age": "20 hours ago"
     },
     {
-      "title": "Copenhagen's 400-yr-old exchange burns down",
-      "url": "https://www.ft.com/content/f9ec9d26-81eb-40d9-9127-737f2d498c75",
-      "comments": 2,
-      "score": 7,
-      "user": "mads",
-      "age": "5 hours ago"
-    },
-    {
       "title": "Trying to Understand Copilot's Type Spaghetti",
       "url": "https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/",
       "comments": 80,
@@ -289,36 +297,20 @@
       "age": "22 hours ago"
     },
     {
+      "title": "Copenhagen's 400-yr-old exchange burns down",
+      "url": "https://www.ft.com/content/f9ec9d26-81eb-40d9-9127-737f2d498c75",
+      "comments": 2,
+      "score": 7,
+      "user": "mads",
+      "age": "5 hours ago"
+    },
+    {
       "title": "MSFT's WizardLM2 models have been taken down",
       "url": "https://huggingface.co/WizardLM/WizardLM-13B-V1.2",
       "comments": 18,
       "score": 48,
       "user": "null_point",
-      "age": "10 hours ago"
-    },
-    {
-      "title": "The project to migrate Android to Bazel is cancelled",
-      "url": "https://twitter.com/MishaalRahman/status/1779985959926288407",
-      "comments": 6,
-      "score": 42,
-      "user": "tripdout",
       "age": "11 hours ago"
-    },
-    {
-      "title": "The demise of email forwarding is getting closer",
-      "url": "https://talk.tidbits.com/t/the-demise-of-email-forwarding-is-getting-closer/27315",
-      "comments": 30,
-      "score": 53,
-      "user": "kruuuder",
-      "age": "18 hours ago"
-    },
-    {
-      "title": "How much memory does a graph take?",
-      "url": "https://jazco.dev/2024/04/15/in-memory-graphs/",
-      "comments": 12,
-      "score": 82,
-      "user": "goranmoomin",
-      "age": "17 hours ago"
     },
     {
       "title": "Spectral Ray Tracing",
@@ -327,6 +319,30 @@
       "score": 274,
       "user": "earslap",
       "age": "1 day ago"
+    },
+    {
+      "title": "The project to migrate Android to Bazel is cancelled",
+      "url": "https://twitter.com/MishaalRahman/status/1779985959926288407",
+      "comments": 6,
+      "score": 42,
+      "user": "tripdout",
+      "age": "12 hours ago"
+    },
+    {
+      "title": "The demise of email forwarding is getting closer",
+      "url": "https://talk.tidbits.com/t/the-demise-of-email-forwarding-is-getting-closer/27315",
+      "comments": 30,
+      "score": 54,
+      "user": "kruuuder",
+      "age": "19 hours ago"
+    },
+    {
+      "title": "How much memory does a graph take?",
+      "url": "https://jazco.dev/2024/04/15/in-memory-graphs/",
+      "comments": 12,
+      "score": 85,
+      "user": "goranmoomin",
+      "age": "17 hours ago"
     },
     {
       "title": "ScanAllFish",
@@ -347,32 +363,32 @@
     {
       "title": "Self-hosting on a Raspberry Pi cluster",
       "url": "https://savannahostrowski.com/posts/raspberry-pi-cluster/",
-      "comments": 13,
-      "score": 49,
+      "comments": 14,
+      "score": 50,
       "user": "pionar",
       "age": "20 hours ago"
-    },
-    {
-      "title": "RebornOS: A beautiful user-friendly take on Arch Linux with many desktop options",
-      "url": "https://www.zdnet.com/article/rebornos-is-a-beautiful-user-friendly-take-on-arch-linux-with-desktop-options-galore/",
-      "comments": 13,
-      "score": 16,
-      "user": "billybuckwheat",
-      "age": "10 hours ago"
     },
     {
       "title": "WireViz: Easily document cables and wiring harnesses",
       "url": "https://github.com/wireviz/WireViz",
       "comments": 44,
-      "score": 240,
+      "score": 241,
       "user": "luu",
       "age": "1 day ago"
+    },
+    {
+      "title": "RebornOS: A beautiful user-friendly take on Arch Linux with many desktop options",
+      "url": "https://www.zdnet.com/article/rebornos-is-a-beautiful-user-friendly-take-on-arch-linux-with-desktop-options-galore/",
+      "comments": 14,
+      "score": 16,
+      "user": "billybuckwheat",
+      "age": "10 hours ago"
     },
     {
       "title": "IPv6 for the Remotely Interested",
       "url": "https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27",
       "comments": 21,
-      "score": 41,
+      "score": 42,
       "user": "sedatk",
       "age": "6 hours ago"
     },
@@ -385,20 +401,20 @@
       "age": "11 hours ago"
     },
     {
-      "title": "Geometers Engineer New Tools to Wrangle Spacecraft Orbits",
-      "url": "https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/",
-      "comments": 5,
-      "score": 49,
-      "user": "piotrkaminski",
-      "age": "18 hours ago"
-    },
-    {
       "title": "A shrub in Nepal supplies the raw material for the bank notes used in Japan",
       "url": "https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html",
       "comments": 83,
       "score": 204,
       "user": "Thevet",
       "age": "1 day ago"
+    },
+    {
+      "title": "Geometers Engineer New Tools to Wrangle Spacecraft Orbits",
+      "url": "https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/",
+      "comments": 5,
+      "score": 49,
+      "user": "piotrkaminski",
+      "age": "18 hours ago"
     },
     {
       "title": "Do we need to store all that telemetry?",
@@ -417,14 +433,6 @@
       "age": "1 day ago"
     },
     {
-      "title": "Alleged cryptojacking scheme consumed $3.5M of stolen computing to make just $1M",
-      "url": "https://arstechnica.com/security/2024/04/man-indicted-in-cryptojacking-scheme-that-stole-3-5m-from-cloud-providers/",
-      "comments": 0,
-      "score": 3,
-      "user": "pseudolus",
-      "age": "5 hours ago"
-    },
-    {
       "title": "New Titanosaur Species Identified in Argentina",
       "url": "https://www.sci.news/paleontology/titanomachya-gimenezi-12853.html",
       "comments": 3,
@@ -441,19 +449,19 @@
       "age": "16 hours ago"
     },
     {
-      "title": "Canoes discovered northwest of Rome are oldest boats ever found in Mediterranean",
-      "url": "https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/",
-      "comments": 61,
-      "score": 116,
-      "user": "bryanrasmussen",
-      "age": "1 day ago"
+      "title": "Alleged cryptojacking scheme consumed $3.5M of stolen computing to make just $1M",
+      "url": "https://arstechnica.com/security/2024/04/man-indicted-in-cryptojacking-scheme-that-stole-3-5m-from-cloud-providers/",
+      "comments": 0,
+      "score": 3,
+      "user": "pseudolus",
+      "age": "5 hours ago"
     },
     {
-      "title": "PicoGK is a compact and robust geometry kernel for computational engineering",
-      "url": "https://github.com/leap71/PicoGK",
-      "comments": 10,
-      "score": 55,
-      "user": "neom",
+      "title": "Canoes discovered northwest of Rome are oldest boats ever found in Mediterranean",
+      "url": "https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/",
+      "comments": 62,
+      "score": 116,
+      "user": "bryanrasmussen",
       "age": "1 day ago"
     },
     {
@@ -462,6 +470,14 @@
       "comments": 45,
       "score": 98,
       "user": "matan-h",
+      "age": "1 day ago"
+    },
+    {
+      "title": "PicoGK is a compact and robust geometry kernel for computational engineering",
+      "url": "https://github.com/leap71/PicoGK",
+      "comments": 10,
+      "score": 55,
+      "user": "neom",
       "age": "1 day ago"
     },
     {
@@ -500,17 +516,17 @@
       "title": "Scammers are targeting teenage boys on social media–and driving some to suicide",
       "url": "https://www.bloomberg.com/features/2024-sextortion-teen-suicides/",
       "comments": 5,
-      "score": 14,
+      "score": 15,
       "user": "fromthegut",
-      "age": "8 hours ago"
+      "age": "9 hours ago"
     },
     {
-      "title": "Copenhagen's historic stock exchange in flames",
-      "url": "https://www.bbc.com/news/world-europe-68824189",
-      "comments": 13,
-      "score": 50,
-      "user": "voisin",
-      "age": "4 hours ago"
+      "title": "Mobile Ad Blocker Will No Longer Stop YouTube's Ads",
+      "url": "https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797",
+      "comments": 41,
+      "score": 27,
+      "user": "Hary06",
+      "age": "1 hour ago"
     },
     {
       "title": "Proving Heron’s formula by complex number (2013)",
@@ -521,12 +537,28 @@
       "age": "1 day ago"
     },
     {
+      "title": "Copenhagen's historic stock exchange in flames",
+      "url": "https://www.bbc.com/news/world-europe-68824189",
+      "comments": 13,
+      "score": 50,
+      "user": "voisin",
+      "age": "4 hours ago"
+    },
+    {
       "title": "Psychiatric risks for worsened mental health after psychedelic use",
       "url": "https://journals.sagepub.com/doi/10.1177/02698811241232548",
       "comments": 89,
       "score": 85,
       "user": "gnabgib",
       "age": "10 hours ago"
+    },
+    {
+      "title": "Computer-generated holography with ordinary display",
+      "url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876",
+      "comments": 10,
+      "score": 117,
+      "user": "ta988",
+      "age": "1 day ago"
     },
     {
       "title": "Google Common Lisp Style Guide",
@@ -537,18 +569,10 @@
       "age": "16 hours ago"
     },
     {
-      "title": "Computer-generated holography with ordinary display",
-      "url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876",
-      "comments": 9,
-      "score": 117,
-      "user": "ta988",
-      "age": "1 day ago"
-    },
-    {
       "title": "WizardLM 2",
       "url": "https://wizardlm.github.io/WizardLM2/",
       "comments": 60,
-      "score": 154,
+      "score": 155,
       "user": "tosh",
       "age": "23 hours ago"
     },
@@ -556,7 +580,7 @@
       "title": "We are moving to General Availability",
       "url": "https://supabase.com/ga",
       "comments": 95,
-      "score": 253,
+      "score": 254,
       "user": "jimmcslim",
       "age": "1 day ago"
     },
@@ -567,6 +591,14 @@
       "score": 31,
       "user": "visviva",
       "age": "11 hours ago"
+    },
+    {
+      "title": "Open-source passive radar taken down for regulatory reasons (2022)",
+      "url": "https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/",
+      "comments": 3,
+      "score": 63,
+      "user": "DreamGen",
+      "age": "19 hours ago"
     },
     {
       "title": "Open-source passive radar taken down for regulatory reasons (2022)",
@@ -598,7 +630,7 @@
       "comments": 0,
       "score": 7,
       "user": "kmdupree",
-      "age": "20 hours ago"
+      "age": "21 hours ago"
     },
     {
       "title": "'Chinampas': The Ancient Aztec Floating Gardens That Hold Promise for Future",
@@ -665,12 +697,12 @@
       "age": "1 day ago"
     },
     {
-      "title": "From L3 to seL4: 20 years of L4 microkernels (2013) [video]",
-      "url": "https://www.youtube.com/watch?v=RdoaFc5-1Rk",
-      "comments": 38,
-      "score": 68,
-      "user": "tambourine_man",
-      "age": "1 day ago"
+      "title": "America's Bonds Are Getting Harder to Sell",
+      "url": "https://www.wsj.com/finance/americas-bonds-are-getting-harder-to-sell-c3fde4de",
+      "comments": 10,
+      "score": 16,
+      "user": "paulpauper",
+      "age": "13 hours ago"
     },
     {
       "title": "Green's Dictionary of Slang",
@@ -681,12 +713,20 @@
       "age": "3 days ago"
     },
     {
+      "title": "From L3 to seL4: 20 years of L4 microkernels (2013) [video]",
+      "url": "https://www.youtube.com/watch?v=RdoaFc5-1Rk",
+      "comments": 38,
+      "score": 68,
+      "user": "tambourine_man",
+      "age": "1 day ago"
+    },
+    {
       "title": "Procrastination can be caused by anxiety",
       "url": "https://solvingprocrastination.com/anxiety/",
       "comments": 33,
       "score": 121,
       "user": "EndXA",
-      "age": "23 hours ago"
+      "age": "1 day ago"
     },
     {
       "title": "Ask HN: Is RAG the Future of LLMs?",
@@ -697,20 +737,20 @@
       "age": "1 day ago"
     },
     {
-      "title": "America's Big Chipmaking Blunder [video]",
-      "url": "https://www.youtube.com/watch?v=NFLjeyd2M0k",
-      "comments": 0,
-      "score": 8,
-      "user": "mgh2",
-      "age": "10 hours ago"
-    },
-    {
       "title": "Show HN: Stack, an open-source Clerk/Firebase Auth alternative",
       "url": "https://stack-auth.com/blog/introducing-stack",
       "comments": 67,
       "score": 139,
       "user": "n2d4",
       "age": "2 days ago"
+    },
+    {
+      "title": "America's Big Chipmaking Blunder [video]",
+      "url": "https://www.youtube.com/watch?v=NFLjeyd2M0k",
+      "comments": 0,
+      "score": 8,
+      "user": "mgh2",
+      "age": "10 hours ago"
     },
     {
       "title": "Smishing scam regarding debt for road toll services",
@@ -721,28 +761,12 @@
       "age": "1 day ago"
     },
     {
-      "title": "America's Bonds Are Getting Harder to Sell",
-      "url": "https://www.wsj.com/finance/americas-bonds-are-getting-harder-to-sell-c3fde4de",
-      "comments": 10,
-      "score": 15,
-      "user": "paulpauper",
-      "age": "13 hours ago"
-    },
-    {
       "title": "Integral Calculator",
       "url": "https://www.integral-calculator.com/",
       "comments": 24,
       "score": 90,
       "user": "beckthompson",
       "age": "1 day ago"
-    },
-    {
-      "title": "Laser Rocket Anti-Drone Systems Being Rushed to U.S. Forces in the Middle East",
-      "url": "https://www.twz.com/land/laser-rocket-anti-drone-systems-being-rushed-to-u-s-forces-in-the-middle-east",
-      "comments": 8,
-      "score": 13,
-      "user": "peutetre",
-      "age": "12 hours ago"
     },
     {
       "title": "The Arc Product-Market Fit Framework",
@@ -769,6 +793,14 @@
       "age": "1 day ago"
     },
     {
+      "title": "Laser Rocket Anti-Drone Systems Being Rushed to U.S. Forces in the Middle East",
+      "url": "https://www.twz.com/land/laser-rocket-anti-drone-systems-being-rushed-to-u-s-forces-in-the-middle-east",
+      "comments": 8,
+      "score": 13,
+      "user": "peutetre",
+      "age": "12 hours ago"
+    },
+    {
       "title": "How Shazam Works (2003) [pdf]",
       "url": "https://ismir2003.ismir.net/presentations/Wang.pdf",
       "comments": 28,
@@ -783,14 +815,6 @@
       "score": 78,
       "user": "Alex3917",
       "age": "1 day ago"
-    },
-    {
-      "title": "Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile",
-      "url": "https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/",
-      "comments": 38,
-      "score": 54,
-      "user": "thunderbong",
-      "age": "4 hours ago"
     },
     {
       "title": "How Convex Works",
@@ -809,12 +833,12 @@
       "age": "12 hours ago"
     },
     {
-      "title": "Goto",
-      "url": "http://www.azillionmonkeys.com/qed/goto.html",
-      "comments": 17,
-      "score": 15,
-      "user": "luu",
-      "age": "9 hours ago"
+      "title": "Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile",
+      "url": "https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/",
+      "comments": 38,
+      "score": 54,
+      "user": "thunderbong",
+      "age": "5 hours ago"
     },
     {
       "title": "A City Is Not a Computer (2017)",
@@ -822,7 +846,7 @@
       "comments": 41,
       "score": 41,
       "user": "conanxin",
-      "age": "19 hours ago"
+      "age": "20 hours ago"
     },
     {
       "title": "SpaceX's most-flown reusable rocket will go for its 20th launch tonight",
@@ -833,12 +857,12 @@
       "age": "1 day ago"
     },
     {
-      "title": "Iran Attacks Israel, Sort Of –| Peter Zeihan [video]",
-      "url": "https://www.youtube.com/watch?v=W4W0FHJ8A0o",
-      "comments": 0,
-      "score": 4,
-      "user": "CRConrad",
-      "age": "9 hours ago"
+      "title": "Goto",
+      "url": "http://www.azillionmonkeys.com/qed/goto.html",
+      "comments": 17,
+      "score": 15,
+      "user": "luu",
+      "age": "10 hours ago"
     },
     {
       "title": "The origin and virtues of semicolons in programming languages",
@@ -855,6 +879,14 @@
       "score": 52,
       "user": "fargle",
       "age": "1 day ago"
+    },
+    {
+      "title": "Iran Attacks Israel, Sort Of –| Peter Zeihan [video]",
+      "url": "https://www.youtube.com/watch?v=W4W0FHJ8A0o",
+      "comments": 0,
+      "score": 4,
+      "user": "CRConrad",
+      "age": "9 hours ago"
     },
     {
       "title": "State tax officials are using AI to go after wealthy payers",
@@ -881,6 +913,22 @@
       "age": "1 day ago"
     },
     {
+      "title": "Patchscopes: A framework for viewing hidden representations of language models",
+      "url": "https://research.google/blog/patchscopes-a-unifying-framework-for-inspecting-hidden-representations-of-language-models/",
+      "comments": 0,
+      "score": 12,
+      "user": "panabee",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Show HN: I made a tool to clean and convert any webpage to Markdown",
+      "url": "https://markdowndown.vercel.app/",
+      "comments": 98,
+      "score": 422,
+      "user": "asadalt",
+      "age": "1 day ago"
+    },
+    {
       "title": "Ex-TikTok employees say the company worked closely with its China-based parent",
       "url": "https://fortune.com/2024/04/15/tiktok-china-data-sharing-bytedance-project-texas/",
       "comments": 0,
@@ -895,22 +943,6 @@
       "score": 14,
       "user": "kklisura",
       "age": "17 hours ago"
-    },
-    {
-      "title": "Patchscopes: A framework for viewing hidden representations of language models",
-      "url": "https://research.google/blog/patchscopes-a-unifying-framework-for-inspecting-hidden-representations-of-language-models/",
-      "comments": 0,
-      "score": 12,
-      "user": "panabee",
-      "age": "1 day ago"
-    },
-    {
-      "title": "Show HN: I made a tool to clean and convert any webpage to Markdown",
-      "url": "https://markdowndown.vercel.app/",
-      "comments": 98,
-      "score": 421,
-      "user": "asadalt",
-      "age": "1 day ago"
     },
     {
       "title": "The hero tax: Why 'selfless' workers are professionally exploited",
@@ -929,20 +961,20 @@
       "age": "1 day ago"
     },
     {
-      "title": "Dun, Dun Duuun Where did pop culture's most dramatic sound come from? (2022)",
-      "url": "https://www.theguardian.com/music/2022/jan/18/dun-dun-duuun-where-did-pop-cultures-most-dramatic-sound-come-from",
-      "comments": 2,
-      "score": 15,
-      "user": "fanf2",
-      "age": "19 hours ago"
-    },
-    {
       "title": "Limitless: Personalized AI powered by what you've seen, said, and heard",
       "url": "https://www.limitless.ai/",
       "comments": 83,
       "score": 98,
       "user": "nihaals",
       "age": "1 day ago"
+    },
+    {
+      "title": "Dun, Dun Duuun Where did pop culture's most dramatic sound come from? (2022)",
+      "url": "https://www.theguardian.com/music/2022/jan/18/dun-dun-duuun-where-did-pop-cultures-most-dramatic-sound-come-from",
+      "comments": 2,
+      "score": 15,
+      "user": "fanf2",
+      "age": "19 hours ago"
     },
     {
       "title": "Getting into way too much detail with the Z80 netlist simulation (2021)",
@@ -969,14 +1001,6 @@
       "age": "1 day ago"
     },
     {
-      "title": "Apple: No notes taken at executive meetings",
-      "url": "https://www.afr.com/technology/apple-s-secret-to-success-don-t-take-notes-and-worry-about-the-numbers-20240415-p5fjuz",
-      "comments": 11,
-      "score": 10,
-      "user": "nier",
-      "age": "15 hours ago"
-    },
-    {
       "title": "How to Determine the Error of an Air Quality Sensor?",
       "url": "https://www.airgradient.com/blog/how-to-determine-error-of-sensor/",
       "comments": 47,
@@ -991,6 +1015,14 @@
       "score": 39,
       "user": "vitplister",
       "age": "1 day ago"
+    },
+    {
+      "title": "Apple: No notes taken at executive meetings",
+      "url": "https://www.afr.com/technology/apple-s-secret-to-success-don-t-take-notes-and-worry-about-the-numbers-20240415-p5fjuz",
+      "comments": 11,
+      "score": 10,
+      "user": "nier",
+      "age": "15 hours ago"
     },
     {
       "title": "Show HN: I made a tool which fixes broken JSONs",
@@ -1017,11 +1049,11 @@
       "age": "13 hours ago"
     },
     {
-      "title": "St. Louis office tower lost 98% of its value",
-      "url": "https://www.morningbrew.com/daily/stories/2024/04/14/undefined",
+      "title": "Japanese minimalist and his designs for a minimalist lifestyle",
+      "url": "https://www.youtube.com/watch?v=XBQBKseozuY",
       "comments": 7,
-      "score": 11,
-      "user": "paulpauper",
+      "score": 14,
+      "user": "bane",
       "age": "13 hours ago"
     },
     {
@@ -1031,14 +1063,2566 @@
       "score": 48,
       "user": "manibaur",
       "age": "1 day ago"
+    },
+    {
+      "title": "A primer on x86 by Casey Muratori and The Primeagen [video]",
+      "url": "https://www.youtube.com/watch?v=xCBrtopAG80",
+      "comments": 44,
+      "score": 108,
+      "user": "kamikaz1k",
+      "age": "1 day ago"
+    },
+    {
+      "title": "St. Louis office tower lost 98% of its value",
+      "url": "https://www.morningbrew.com/daily/stories/2024/04/14/undefined",
+      "comments": 7,
+      "score": 11,
+      "user": "paulpauper",
+      "age": "13 hours ago"
+    },
+    {
+      "title": "Mysterious Moving Pointers",
+      "url": "https://blomqu.ist/posts/2024/move/",
+      "comments": 65,
+      "score": 54,
+      "user": "camblomquist",
+      "age": "1 day ago"
+    },
+    {
+      "title": "I ported thousands of apps to Windows 95 [video]",
+      "url": "https://www.youtube.com/watch?v=CTUMNtKQLl8",
+      "comments": 24,
+      "score": 139,
+      "user": "lonk",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Open source Substack rival Ghost may join the Fediverse",
+      "url": "https://techcrunch.com/2024/04/15/open-source-substack-rival-ghost-may-join-the-fediverse/",
+      "comments": 0,
+      "score": 9,
+      "user": "lookingsideways",
+      "age": "7 hours ago"
+    },
+    {
+      "title": "Beautifying Org Mode in Emacs (2018)",
+      "url": "https://zzamboni.org/post/beautifying-org-mode-in-emacs/",
+      "comments": 2,
+      "score": 19,
+      "user": "tosh",
+      "age": "10 hours ago"
+    },
+    {
+      "title": "The Intercept Is Running Out of Cash",
+      "url": "https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash",
+      "comments": 35,
+      "score": 59,
+      "user": "jbegley",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ascender High Altitude Airships",
+      "url": "https://www.jpaerospace.com/ascender175.html",
+      "comments": 0,
+      "score": 9,
+      "user": "rbanffy",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Los Angeles Warehouse Vacancies Climb to Highest in a Decade",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-15/los-angeles-warehouse-vacancies-climb-to-highest-in-a-decade",
+      "comments": 4,
+      "score": 9,
+      "user": "mfiguiere",
+      "age": "16 hours ago"
+    },
+    {
+      "title": "Warp Factory: numerical toolkit for analyzing warp drive spacetimes",
+      "url": "https://github.com/NerdsWithAttitudes/WarpFactory",
+      "comments": 2,
+      "score": 11,
+      "user": "SkyMarshal",
+      "age": "1 day ago"
+    },
+    {
+      "title": "We have no idea how models will behave in production until production",
+      "url": "https://arxiv.org/abs/2403.16795",
+      "comments": 3,
+      "score": 36,
+      "user": "LexSiga",
+      "age": "20 hours ago"
+    },
+    {
+      "title": "No I don't want 2, Emacs",
+      "url": "https://www.emoses.org/posts/dont-write-2/",
+      "comments": 6,
+      "score": 28,
+      "user": "todsacerdoti",
+      "age": "14 hours ago"
+    },
+    {
+      "title": "iOS404",
+      "url": "https://ios404.com/",
+      "comments": 86,
+      "score": 147,
+      "user": "LaSombra",
+      "age": "5 hours ago"
+    },
+    {
+      "title": "AI cloud startup TensorWave bets AMD can beat Nvidia",
+      "url": "https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/",
+      "comments": 20,
+      "score": 32,
+      "user": "LorenDB",
+      "age": "4 hours ago"
+    },
+    {
+      "title": "Fast and secure translation on your local machine with a GUI",
+      "url": "https://github.com/XapaJIaMnu/translateLocally",
+      "comments": 38,
+      "score": 154,
+      "user": "Intralexical",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Radxa Rock 5 ITX: 8-Core ARM Mini ITX Board with LPDDR5 RAM",
+      "url": "https://bret.dk/radxa-rock-5-itx-first-look/",
+      "comments": 55,
+      "score": 41,
+      "user": "sthlmb",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Program synthesis",
+      "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+      "comments": 19,
+      "score": 53,
+      "user": "downboots",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Happy 20th Anniversary, Gmail. I'm Sorry I'm Leaving You",
+      "url": "https://www.nytimes.com/2024/04/07/opinion/gmail-email-digital-shame.html",
+      "comments": 11,
+      "score": 19,
+      "user": "coatta",
+      "age": "12 hours ago"
+    },
+    {
+      "title": "The unwritten laws of engineering at Stedi",
+      "url": "https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi",
+      "comments": 43,
+      "score": 52,
+      "user": "mooreds",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Wall Street keeps underestimating the US economy",
+      "url": "https://www.axios.com/2024/04/14/stock-market-bonds-interest-rates-us-economy",
+      "comments": 3,
+      "score": 5,
+      "user": "safaa1993",
+      "age": "16 hours ago"
+    },
+    {
+      "title": "When Nostalgia Was Deadly",
+      "url": "https://www.historytoday.com/archive/history-matters/when-nostalgia-was-deadly",
+      "comments": 34,
+      "score": 60,
+      "user": "Petiver",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Pile-T5",
+      "url": "https://blog.eleuther.ai/pile-t5/",
+      "comments": 14,
+      "score": 57,
+      "user": "tosh",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "How do machines ‘grok’ data?",
+      "url": "https://www.quantamagazine.org/how-do-machines-grok-data-20240412/",
+      "comments": 16,
+      "score": 100,
+      "user": "nsoonhui",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Ask HN: What book have you given as a gift?",
+      "url": "item?id=40045862",
+      "comments": 22,
+      "score": 6,
+      "user": "schappim",
+      "age": "17 hours ago"
+    },
+    {
+      "title": "RAGKit with Kyle Davis – Weaviate Podcast #93",
+      "url": "item?id=40040794",
+      "comments": 0,
+      "score": 15,
+      "user": "CShorten",
+      "age": "1 day ago"
+    },
+    {
+      "title": "An unbiased evaluation of Python environment and packaging tools (2023)",
+      "url": "https://alpopkes.com/posts/python/packaging_tools/",
+      "comments": 17,
+      "score": 30,
+      "user": "BerislavLopac",
+      "age": "18 hours ago"
+    },
+    {
+      "title": "Experience report: It will never work in theory",
+      "url": "https://www.computer.org/csdl/magazine/so/5555/01/10424425/1Ulj1Qa8tJ6",
+      "comments": 43,
+      "score": 64,
+      "user": "mpweiher",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Pikatea – Long Boi – Extra Long Keyboard Kit",
+      "url": "https://www.pikatea.com/products/long-boi",
+      "comments": 3,
+      "score": 10,
+      "user": "jiripospisil",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Shape typing in Python",
+      "url": "https://jameshfisher.com/2024/04/12/shape-typing-in-python/",
+      "comments": 74,
+      "score": 130,
+      "user": "alexmolas",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Practical Unix Manuals: mdoc (2014)",
+      "url": "https://manpages.bsd.lv/",
+      "comments": 0,
+      "score": 11,
+      "user": "turtleyacht",
+      "age": "1 day ago"
+    },
+    {
+      "title": "California has set a benchmark for renewable energy",
+      "url": "https://www.thecooldown.com/green-tech/california-renewable-energy-100-percent-grid/",
+      "comments": 5,
+      "score": 24,
+      "user": "belter",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Why good external SSDs are faster with Apple Silicon",
+      "url": "https://eclecticlight.co/2024/04/14/last-week-on-my-mac-why-good-external-ssds-are-faster-with-apple-silicon/",
+      "comments": 55,
+      "score": 116,
+      "user": "ingve",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Swatch Internet Time",
+      "url": "https://en.wikipedia.org/wiki/Swatch_Internet_Time",
+      "comments": 39,
+      "score": 58,
+      "user": "redbell",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Refal",
+      "url": "https://en.wikipedia.org/wiki/Refal",
+      "comments": 0,
+      "score": 5,
+      "user": "gone35",
+      "age": "17 hours ago"
+    },
+    {
+      "title": "Linux fu: getting started with systemd",
+      "url": "https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/",
+      "comments": 58,
+      "score": 91,
+      "user": "drpixie",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Show HN: CTRL-F for YouTube Videos",
+      "url": "https://github.com/Evan-Wildenhain/CTRL-F-VIDEO",
+      "comments": 38,
+      "score": 136,
+      "user": "ewild",
+      "age": "3 days ago"
+    },
+    {
+      "title": "All 'Reporting from Ukraine' channels are being deleted by YouTube",
+      "url": "https://old.reddit.com/r/ukraine/comments/1c53mzo/all_reporting_from_ukraine_channels_are_being/",
+      "comments": 2,
+      "score": 23,
+      "user": "hn72774",
+      "age": "12 hours ago"
+    },
+    {
+      "title": "Statistical Rethinking: a course on Bayesian data analysis [video]",
+      "url": "https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1",
+      "comments": 0,
+      "score": 12,
+      "user": "jamesfisher",
+      "age": "18 hours ago"
+    },
+    {
+      "title": "YouTube algorithm weaponised to shut down Russia-Ukraine war reporting channel [video]",
+      "url": "https://www.youtube.com/watch?v=2v063wuJtM0",
+      "comments": 5,
+      "score": 48,
+      "user": "rurounijones",
+      "age": "13 hours ago"
+    },
+    {
+      "title": "Phanpy: A minimalistic opinionated Mastodon web client",
+      "url": "https://phanpy.social",
+      "comments": 29,
+      "score": 139,
+      "user": "ulrischa",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Wall Mounted Can Organizer (2019)",
+      "url": "https://www.ana-white.com/woodworking-projects/wall-mounted-can-organizer",
+      "comments": 18,
+      "score": 48,
+      "user": "stacktrust",
+      "age": "2 days ago"
+    },
+    {
+      "title": "The Stacks Project: A Wikipedia of algebraic geometry (2022)",
+      "url": "https://news.columbia.edu/news/stacks-project-johan-dejong",
+      "comments": 21,
+      "score": 102,
+      "user": "gone35",
+      "age": "2 days ago"
+    },
+    {
+      "title": "RocketStar tests fusion-enhanced in-space propulsion process",
+      "url": "https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html",
+      "comments": 58,
+      "score": 72,
+      "user": "wawayanda",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Show HN: Solo founder launched iOS Development Agency as a Subscription",
+      "url": "https://www.swiftapplab.com/",
+      "comments": 9,
+      "score": 4,
+      "user": "nikolai_tarasov",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Show HN: YouTube Shorts Redirector",
+      "url": "https://github.com/adamenger/youtube-shorts-redirector",
+      "comments": 42,
+      "score": 54,
+      "user": "donutpepperoni",
+      "age": "14 hours ago"
+    },
+    {
+      "title": "Yes, Python and Matplotlib can make pretty charts",
+      "url": "https://python-graph-gallery.com/best-python-chart-examples/",
+      "comments": 23,
+      "score": 46,
+      "user": "holtzy",
+      "age": "3 hours ago"
+    },
+    {
+      "title": "DIY Wi-Fi thermostat from scratch with ESPHome and Home Assistant",
+      "url": "https://olegtarasov.me/opentherm-thermostat-esphome/",
+      "comments": 27,
+      "score": 116,
+      "user": "oleg_tarasov",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Show HN: Docker-boot – Run a system from RAM without LiveCD",
+      "url": "https://github.com/purplesyringa/docker-boot",
+      "comments": 9,
+      "score": 26,
+      "user": "purplesyringa",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The argument against clearing the database between tests",
+      "url": "https://calpaterson.com/against-database-teardown.html",
+      "comments": 0,
+      "score": 13,
+      "user": "thunderbong",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The Wrath of Rickover",
+      "url": "https://ussrickover.org/rcl-william-toti/",
+      "comments": 0,
+      "score": 6,
+      "user": "atomicnature",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Challenging software projects some programmers should try",
+      "url": "https://www.andreinc.net/2024/03/28/programming-projects-ideas",
+      "comments": 33,
+      "score": 64,
+      "user": "cmpit",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Seismologists suspect earthquake on San Andreas Fault is imminent",
+      "url": "https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html",
+      "comments": 52,
+      "score": 63,
+      "user": "wglb",
+      "age": "13 hours ago"
+    },
+    {
+      "title": "15 Note Poly Tempo Pendulum [video]",
+      "url": "https://www.youtube.com/watch?v=lTwg4mFF32E",
+      "comments": 26,
+      "score": 92,
+      "user": "martyvis",
+      "age": "3 days ago"
+    },
+    {
+      "title": "The Guide to Stock Options Conversations",
+      "url": "https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations",
+      "comments": 99,
+      "score": 149,
+      "user": "redbell",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Ask HN: Books for engaging with business problems as an IC?",
+      "url": "item?id=40042609",
+      "comments": 3,
+      "score": 11,
+      "user": "rlue",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Builder's remedy was supposed to 'Manhattanize' the Bay Area",
+      "url": "https://www.mercurynews.com/2024/04/14/builders-remedy-was-supposed-to-manhattanize-the-bay-area-so-where-are-all-the-houses/",
+      "comments": 11,
+      "score": 14,
+      "user": "creer",
+      "age": "1 day ago"
+    },
+    {
+      "title": "x86 and x86_64 software optimization resources",
+      "url": "https://agner.org/optimize/",
+      "comments": 10,
+      "score": 92,
+      "user": "HaoZeke",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Algae that can fix nitrogen – thanks to a tiny cell structure",
+      "url": "https://www.nature.com/articles/d41586-024-01046-z",
+      "comments": 26,
+      "score": 106,
+      "user": "rntn",
+      "age": "2 days ago"
+    },
+    {
+      "title": "California Hits 'Historical' Renewable Energy Milestone",
+      "url": "https://www.newsweek.com/california-milestone-renewable-energy-1890345",
+      "comments": 0,
+      "score": 3,
+      "user": "MBCook",
+      "age": "17 hours ago"
+    },
+    {
+      "title": "America's Next Soldiers Will Be Machines",
+      "url": "https://foreignpolicy.com/2024/04/06/us-army-military-robots-soldiers-technology-testing-war/",
+      "comments": 9,
+      "score": 19,
+      "user": "jbegley",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ocean heat driving global coral bleaching event, possibly the worst on record",
+      "url": "https://www.cnn.com/2024/04/15/climate/global-coral-reef-mass-bleaching-climate-hnk-intl/index.html",
+      "comments": 0,
+      "score": 31,
+      "user": "rntn",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "OpenBSD is a cozy operating system",
+      "url": "https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/",
+      "comments": 88,
+      "score": 115,
+      "user": "skeptrune",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Why the limitations of the N64 and PS1 help create unique gameplay [video]",
+      "url": "https://www.youtube.com/watch?v=nUjoMdWH-JI",
+      "comments": 0,
+      "score": 6,
+      "user": "Rinzler89",
+      "age": "18 hours ago"
+    },
+    {
+      "title": "XZ Utils review notes",
+      "url": "https://tukaani.org/xz-backdoor/review.html",
+      "comments": 7,
+      "score": 90,
+      "user": "todsacerdoti",
+      "age": "20 hours ago"
+    },
+    {
+      "title": "Today's open source models beat closed source models from 1.5 years ago",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1c33agw/todays_open_source_models_beat_closed_source/",
+      "comments": 10,
+      "score": 59,
+      "user": "ushakov",
+      "age": "2 days ago"
+    },
+    {
+      "title": "How macOS opens a file in the correct app",
+      "url": "https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/",
+      "comments": 0,
+      "score": 32,
+      "user": "CharlesW",
+      "age": "1 day ago"
+    },
+    {
+      "title": "APFS Migration: A Feat of Engineering",
+      "url": "https://registerspill.thorstenball.com/p/a-feat-of-engineering",
+      "comments": 6,
+      "score": 14,
+      "user": "transpute",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Microsoft Invests $1.5B in G42",
+      "url": "https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+      "comments": 10,
+      "score": 18,
+      "user": "martinpeck",
+      "age": "7 hours ago"
+    },
+    {
+      "title": "Senate Commerce Committee chair Maria Cantwell upended privacy bills for years",
+      "url": "https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/",
+      "comments": 49,
+      "score": 83,
+      "user": "Terretta",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Careful with That Lock, Eugene",
+      "url": "https://kaveland.no/careful-with-that-lock-eugene.html",
+      "comments": 15,
+      "score": 59,
+      "user": "alflervag",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Show HN: I just made an All-In-One IP Toolbox form builder open-sourced",
+      "url": "https://github.com/jason5ng32/MyIP",
+      "comments": 0,
+      "score": 14,
+      "user": "jason5ng32",
+      "age": "2 days ago"
+    },
+    {
+      "title": "The tiny ultrabright laser that can melt steel",
+      "url": "https://spectrum.ieee.org/pcsel",
+      "comments": 0,
+      "score": 5,
+      "user": "yaantc",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ubuntu 24.04 (and Debian) removed libsystemd from SSH server dependencies",
+      "url": "https://fosstodon.org/@3v1n0/112260950753323500",
+      "comments": 59,
+      "score": 117,
+      "user": "3v1n0",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Ask HN: C++ devs who went C only",
+      "url": "item?id=40034672",
+      "comments": 18,
+      "score": 16,
+      "user": "b20000",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Albino Redwood",
+      "url": "https://en.wikipedia.org/wiki/Albino_redwood",
+      "comments": 0,
+      "score": 16,
+      "user": "popol12",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Thermoelectric Cooling",
+      "url": "https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/",
+      "comments": 43,
+      "score": 55,
+      "user": "feynman_quantum",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The Reconstruction of Ulysses S Grant (2017)",
+      "url": "https://www.damninteresting.com/the-reconstruction-of-ulysses-s-grant/",
+      "comments": 40,
+      "score": 50,
+      "user": "blending",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Google FeedBurner Dead?",
+      "url": "https://feedburner.google.com/",
+      "comments": 4,
+      "score": 8,
+      "user": "6uJYSrt8M",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Turning off electrical grids to prevent wildfire− a complex, technical operation",
+      "url": "https://theconversation.com/colorado-is-latest-state-to-try-turning-off-the-electrical-grid-to-prevent-wildfires-a-complex-technical-operation-pioneered-in-california-227639",
+      "comments": 40,
+      "score": 45,
+      "user": "rntn",
+      "age": "1 day ago"
+    },
+    {
+      "title": "US House approves FISA renewal – warrantless surveillance and all",
+      "url": "https://www.theregister.com/2024/04/15/security_in_brief/",
+      "comments": 33,
+      "score": 117,
+      "user": "moose44",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Go performance from version 1.0 to 1.22",
+      "url": "https://benhoyt.com/writings/go-version-performance-2024/",
+      "comments": 17,
+      "score": 56,
+      "user": "ingve",
+      "age": "2 days ago"
+    },
+    {
+      "title": "From Vim to Zed",
+      "url": "https://registerspill.thorstenball.com/p/from-vim-to-zed",
+      "comments": 2,
+      "score": 4,
+      "user": "bpierre",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "No Experience Necessary (2003)",
+      "url": "https://journals.sagepub.com/doi/pdf/10.2968/059002013",
+      "comments": 23,
+      "score": 30,
+      "user": "Tomte",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Show HN: A simple demo of Postgres wire protocol and SQLite as storage engine",
+      "url": "https://github.com/viggy28/pglite",
+      "comments": 0,
+      "score": 11,
+      "user": "vira28",
+      "age": "2 days ago"
+    },
+    {
+      "title": "If you put server code in your live-service game client, expect private servers",
+      "url": "https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/",
+      "comments": 29,
+      "score": 85,
+      "user": "Gamemaster1379",
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Show HN: Tech Interview Experience from Google, Microsoft, and Atlassian",
+      "url": "https://techinterviewexp.site/",
+      "comments": 0,
+      "score": 6,
+      "user": "hsnice16",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Blaming Food for Obesity Is Like Blaming Water for Drowning",
+      "url": "https://realclearwire.com/articles/2024/04/09/a_heretics_view_blaming_food_for_obesity_is_like_blaming_water_for_drowning_1023353.html",
+      "comments": 4,
+      "score": 4,
+      "user": "richrichie",
+      "age": "10 hours ago"
+    },
+    {
+      "title": "Mercury: The Solar System's smallest planet may once have been as large as Earth",
+      "url": "https://www.bbc.com/future/article/20240410-mercury-the-solar-systems-smallest-planet-may-once-have-been-as-large-as-earth",
+      "comments": 0,
+      "score": 10,
+      "user": "gukov",
+      "age": "1 day ago"
+    },
+    {
+      "title": "A cartoon intro to DNS over HTTPS (2018)",
+      "url": "https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/",
+      "comments": 0,
+      "score": 7,
+      "user": "aragonite",
+      "age": "12 hours ago"
+    },
+    {
+      "title": "Ask HN: What do you need to know to be good at the Unix Command Line?",
+      "url": "item?id=40035201",
+      "comments": 9,
+      "score": 14,
+      "user": "mnemonicsloth",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Apple Removes Game Boy Emulator iGBA from App Store Due to Copyright Violations",
+      "url": "https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/",
+      "comments": 5,
+      "score": 16,
+      "user": "marban",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Apple's APFS Migration: A Feat of Engineering",
+      "url": "https://registerspill.thorstenball.com/p/a-feat-of-engineering",
+      "comments": 50,
+      "score": 86,
+      "user": "goranmoomin",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "How a microprocessor works implemented with FPGA",
+      "url": "https://twitter.com/BrunoLevy01/status/1643305642147340316",
+      "comments": 0,
+      "score": 4,
+      "user": "mariuz",
+      "age": "2 days ago"
+    },
+    {
+      "title": "The Archeologists of Athens (2023)",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/the-hidden-archeologists-of-athens",
+      "comments": 3,
+      "score": 19,
+      "user": "diodorus",
+      "age": "2 days ago"
+    },
+    {
+      "title": "CLA Free Initiative, Embracing Open Source with Developer Certificate of Origin",
+      "url": "https://ossbase.org/initiatives/cla-free/",
+      "comments": 0,
+      "score": 20,
+      "user": "adulau",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Elon Musk says new X users have to pay to tweet",
+      "url": "https://qz.com/elon-musk-twitter-spam-bots-annual-fee-tweet-1851411201",
+      "comments": 18,
+      "score": 18,
+      "user": "paulpauper",
+      "age": "13 hours ago"
+    },
+    {
+      "title": "Kevin Kelly: Daddy Issues",
+      "url": "https://zine.zora.co/issue/intergenerational-dynamics/kevin-kelly",
+      "comments": 2,
+      "score": 14,
+      "user": "conanxin",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Travelling with Tailscale",
+      "url": "https://mrkaran.dev/posts/travel-tailscale/",
+      "comments": 60,
+      "score": 50,
+      "user": "nalgeon",
+      "age": "1 day ago"
+    },
+    {
+      "title": "All Bad Bosses at Amazon Are Now Named 'Wayne'",
+      "url": "https://www.404media.co/bad-amazon-bosses-wayne/",
+      "comments": 0,
+      "score": 3,
+      "user": "marban",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Best way to display photorealistic 3D in the browser?",
+      "url": "item?id=40037645",
+      "comments": 11,
+      "score": 4,
+      "user": "logicziller",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Emacs Info Expressions",
+      "url": "https://susam.net/emacs-info-expressions.html",
+      "comments": 22,
+      "score": 92,
+      "user": "susam",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Your LLM Is a Capable Regressor When Given In-Context Examples",
+      "url": "https://arxiv.org/abs/2404.07544",
+      "comments": 36,
+      "score": 119,
+      "user": "TaurenHunter",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 (2017)",
+      "url": "https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/",
+      "comments": 6,
+      "score": 46,
+      "user": "tosh",
+      "age": "18 hours ago"
+    },
+    {
+      "title": "Show HN: GPU price-per-hour tracker for A100/H100s",
+      "url": "https://computeindex.michaelgiba.com/",
+      "comments": 0,
+      "score": 6,
+      "user": "michaelgiba",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Saskatoon freezing deaths",
+      "url": "https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths",
+      "comments": 15,
+      "score": 80,
+      "user": "luu",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Saskatoon freezing deaths",
+      "url": "https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths",
+      "comments": 15,
+      "score": 80,
+      "user": "luu",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Pulsed charging enhances the service time of batteries",
+      "url": "https://www.sciencedaily.com/releases/2024/04/240409123909.htm",
+      "comments": 0,
+      "score": 13,
+      "user": "8bitsrule",
+      "age": "1 day ago"
+    },
+    {
+      "title": "How to Be a Natural Conference Speaker? (2022)",
+      "url": "https://www.evalapply.org/posts/how-to-give-a-conference-talk/index.html",
+      "comments": 0,
+      "score": 3,
+      "user": "adityaathalye",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Arch Linux 2024 Leader Election Results",
+      "url": "https://archlinux.org/news/arch-linux-2024-leader-election-results/",
+      "comments": 0,
+      "score": 4,
+      "user": "hggh",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Frank Zappa on Crossfire about censoring rock lyrics (1986) [video]",
+      "url": "https://www.youtube.com/watch?v=B9856_xv8gc",
+      "comments": 10,
+      "score": 38,
+      "user": "racked",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Framework's software and firmware have been a mess, but it's working on them",
+      "url": "https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/",
+      "comments": 87,
+      "score": 82,
+      "user": "sagischwarz",
+      "age": "1 day ago"
+    },
+    {
+      "title": "'We're the last bastion of rental': video stores resisting rise of streaming",
+      "url": "https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops",
+      "comments": 83,
+      "score": 59,
+      "user": "Turukawa",
+      "age": "1 day ago"
+    },
+    {
+      "title": "We ensure Cloudflare customers aren't affected by LE's certificate chain change",
+      "url": "https://blog.cloudflare.com/shortening-lets-encrypt-change-of-trust-no-impact-to-cloudflare-customers",
+      "comments": 16,
+      "score": 36,
+      "user": "stanleydrew",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Failures of Kindness (2013)",
+      "url": "https://jamesclear.com/great-speeches/failures-of-kindness-by-george-saunders",
+      "comments": 0,
+      "score": 3,
+      "user": "NaOH",
+      "age": "2 days ago"
+    },
+    {
+      "title": "My battle with Tesla: I want to clear my name before I die",
+      "url": "https://www.bbc.co.uk/news/articles/cg3q95ednqwo",
+      "comments": 84,
+      "score": 151,
+      "user": "user20180120",
+      "age": "9 hours ago"
+    },
+    {
+      "title": "OpenEQA: Embodied Question Answering in the Era of Foundation Models",
+      "url": "https://open-eqa.github.io/",
+      "comments": 0,
+      "score": 42,
+      "user": "beefman",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Paradox of Plenty",
+      "url": "https://en.wikipedia.org/wiki/Resource_curse",
+      "comments": 12,
+      "score": 14,
+      "user": "nimzoLarsen",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Trimming The Herbs TAS Clear on my Wii U [video]",
+      "url": "https://www.youtube.com/watch?v=6VaAvEZ7U60",
+      "comments": 0,
+      "score": 3,
+      "user": "zdw",
+      "age": "2 days ago"
+    },
+    {
+      "title": "AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music",
+      "url": "https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/",
+      "comments": 35,
+      "score": 65,
+      "user": "nen-nomad",
+      "age": "2 days ago"
+    },
+    {
+      "title": "An old rail track in Northern California could become a 300-mile hiking trail",
+      "url": "https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail",
+      "comments": 14,
+      "score": 34,
+      "user": "PaulHoule",
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Body Design and Gait Generation of Chair-Type Robot",
+      "url": "https://shin0805.github.io/chair-type-tripedal-robot/",
+      "comments": 0,
+      "score": 6,
+      "user": "faeyanpiraat",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Medium bans AI-generated content from its paid Partner Program",
+      "url": "https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/",
+      "comments": 60,
+      "score": 45,
+      "user": "thunderbong",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Jim Keller suggests Nvidia should have used Ethernet to link Blackwell GPUs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-suggests-nvidia-should-have-used-ethernet-to-stitch-together-blackwell-gpus",
+      "comments": 28,
+      "score": 25,
+      "user": "westurner",
+      "age": "2 days ago"
+    },
+    {
+      "title": "I \"Blitzed\" 50 Books in 50 Days – My Experiment in Language Learning",
+      "url": "https://buttondown.email/bimodalblitz/archive/i-blitzed-50-books-in-50-days-my-experiment-in/",
+      "comments": 13,
+      "score": 49,
+      "user": "fluentbyfire",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Asianometry: The Birth of SQL and the Relational Database [video]",
+      "url": "https://www.youtube.com/watch?v=z8L202FlmD4",
+      "comments": 0,
+      "score": 13,
+      "user": "eirikbakke",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Wu's Method Can Boost AlphaGeometry to Outperform Gold Medalists at IMO Geometry",
+      "url": "https://arxiv.org/abs/2404.06405",
+      "comments": 0,
+      "score": 7,
+      "user": "mnk47",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Optical Tweezers",
+      "url": "https://en.wikipedia.org/wiki/Optical_tweezers",
+      "comments": 0,
+      "score": 4,
+      "user": "peter_d_sherman",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Verified pro-Nazi X accounts flourish under Elon Musk",
+      "url": "https://www.nbcnews.com/tech/social-media/x-twitter-elon-musk-nazi-extremist-white-nationalist-accounts-rcna145020",
+      "comments": 0,
+      "score": 11,
+      "user": "mdhb",
+      "age": "3 hours ago"
+    },
+    {
+      "title": "Shiakaku of the Day",
+      "url": "https://shikakuofthe.day/",
+      "comments": 17,
+      "score": 64,
+      "user": "napoleongl",
+      "age": "3 days ago"
+    },
+    {
+      "title": "$850 Millennium Falcons and $680 Titanics: Grown-Ups Are Now a Gold Mine",
+      "url": "https://www.wsj.com/business/retail/850-millennium-falcons-and-680-titanics-grown-ups-are-now-a-gold-mine-for-lego-73f265cf",
+      "comments": 19,
+      "score": 25,
+      "user": "SirLJ",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Kansas couple sues MaxMind for turning their life into a \"digital hell\" (2016)",
+      "url": "https://arstechnica.com/tech-policy/2016/08/kansas-couple-sues-ip-mapping-firm-for-turning-their-life-into-a-digital-hell/",
+      "comments": 0,
+      "score": 4,
+      "user": "aragonite",
+      "age": "14 hours ago"
+    },
+    {
+      "title": "Roku says hackers gained access to 576k accounts in latest data-breach incident",
+      "url": "https://www.wsj.com/tech/roku-says-hackers-gained-access-to-576-000-accounts-in-latest-data-breach-incident-8f73ab15",
+      "comments": 75,
+      "score": 131,
+      "user": "fortran77",
+      "age": "2 days ago"
+    },
+    {
+      "title": "FBI Opens Criminal Investigation into Baltimore Bridge Collapse",
+      "url": "https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78",
+      "comments": 56,
+      "score": 87,
+      "user": "jbegley",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Lucky vs. Repeatable",
+      "url": "https://collabfund.com/blog/lucky-vs-repeatable/",
+      "comments": 0,
+      "score": 4,
+      "user": "pmzy",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The truth is paywalled but the lies are free (2020)",
+      "url": "https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/",
+      "comments": 11,
+      "score": 37,
+      "user": "anigbrowl",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Torvalds Injects Tabs to Thwart Kconfig Parsers Not Correctly Handling Them",
+      "url": "https://www.phoronix.com/news/Linux-Kconfig-Tabs",
+      "comments": 3,
+      "score": 38,
+      "user": "hiyer",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Naval Ravikant's Airchat is a social app built around talk, not text",
+      "url": "https://techcrunch.com/2024/04/13/airchat-launch/",
+      "comments": 0,
+      "score": 9,
+      "user": "tosh",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Hügelkultur",
+      "url": "https://en.wikipedia.org/wiki/H%C3%BCgelkultur",
+      "comments": 8,
+      "score": 30,
+      "user": "thunderbong",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Israeli Hetz 3 or US Navy SM-3 caught Iranian exoatmospheric threat",
+      "url": "https://bulgarianmilitary.com/2024/04/14/israeli-hetz-3-or-us-navy-sm-3-caught-iranian-exoatmospheric-threat/",
+      "comments": 0,
+      "score": 10,
+      "user": "belter",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Top cosmologists convene to question conventional view of the universe",
+      "url": "https://www.theguardian.com/science/2024/apr/14/worlds-top-cosmologists-convene-to-question-conventional-view-of-the-universe",
+      "comments": 0,
+      "score": 7,
+      "user": "croes",
+      "age": "1 day ago"
+    },
+    {
+      "title": "North Korea Hacked Him. So He Took Down Its Internet (2022)",
+      "url": "https://www.wired.com/story/north-korea-hacker-internet-outage/",
+      "comments": 11,
+      "score": 69,
+      "user": "torts",
+      "age": "1 day ago"
+    },
+    {
+      "title": "White House, Senate Democrats unveil bill to battle pandemic aid fraud",
+      "url": "https://www.washingtonpost.com/business/2024/04/09/covid-aid-fraud-congress/",
+      "comments": 0,
+      "score": 21,
+      "user": "paulpauper",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Visual processing speed and its association w future dementia: prospective study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38424122/",
+      "comments": 0,
+      "score": 6,
+      "user": "bookofjoe",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ketogenic diet may play a role in treating schizophrenia: research (2019)",
+      "url": "https://www.psychologytoday.com/us/blog/advancing-psychiatry/201904/chronic-schizophrenia-put-remission-without-medication",
+      "comments": 11,
+      "score": 23,
+      "user": "oblib",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "Of the Just Shaping of Letters by Albrecht Dürer",
+      "url": "https://www.gutenberg.org/ebooks/37103",
+      "comments": 0,
+      "score": 13,
+      "user": "Tomte",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Palo Alto Networks PAN-OS Zero-Day Exploitation",
+      "url": "https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/",
+      "comments": 59,
+      "score": 95,
+      "user": "sky_nox",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Salesforce in Advanced Talks to Buy Informatica",
+      "url": "https://www.wsj.com/tech/salesforce-in-advanced-talks-to-buy-informatica-ba9ec09c",
+      "comments": 2,
+      "score": 8,
+      "user": "mfiguiere",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Show HN: ZSV (Zip Separated Values) columnar data format",
+      "url": "https://github.com/Hafthor/zsvutil",
+      "comments": 69,
+      "score": 86,
+      "user": "hafthor",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Identifying and Correcting Programming Language Behavior Misconceptions",
+      "url": "https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/",
+      "comments": 0,
+      "score": 3,
+      "user": "todsacerdoti",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Von Neumann's Elephant",
+      "url": "https://en.wikipedia.org/wiki/Von_Neumann%27s_elephant",
+      "comments": 5,
+      "score": 21,
+      "user": "nth_order",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Searching for new asymmetry between matter and antimatter",
+      "url": "https://phys.org/news/2024-04-asymmetry-antimatter.html",
+      "comments": 0,
+      "score": 5,
+      "user": "alexahn",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Rust Nation UK 2024: Renault wants to sell cars with Rust!",
+      "url": "https://www.youtube.com/watch?v=Z1xMvm3eS4k",
+      "comments": 3,
+      "score": 18,
+      "user": "pjmlp",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Mechanics of Next Token Prediction with Self-Attention",
+      "url": "https://arxiv.org/abs/2403.08081",
+      "comments": 0,
+      "score": 12,
+      "user": "georgehill",
+      "age": "3 days ago"
+    },
+    {
+      "title": "4chan's /biz/ board now requires email verification",
+      "url": "https://boards.4chan.org/biz/thread/58388587/email-verification-required",
+      "comments": 0,
+      "score": 15,
+      "user": "cartesius13",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Invisibility Cloak",
+      "url": "https://www.cs.umd.edu/~tomg/projects/invisible/",
+      "comments": 3,
+      "score": 30,
+      "user": "chippy",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Coding Adventure: Rendering Text [video]",
+      "url": "https://www.youtube.com/watch?v=SO83KQuuZvg",
+      "comments": 0,
+      "score": 33,
+      "user": "marvinborner",
+      "age": "3 days ago"
+    },
+    {
+      "title": "92 out of the top 500 Reddit subs are controlled by just 4 people",
+      "url": "https://twitter.com/reddit_lies/status/1778899250857783731",
+      "comments": 13,
+      "score": 19,
+      "user": "bitcharmer",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "Humane AI Pin: The Worst Product I've Ever Reviewed for Now [video]",
+      "url": "https://www.youtube.com/watch?v=TitZV6k8zfA",
+      "comments": 6,
+      "score": 23,
+      "user": "MaximilianEmel",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Mad MAX was released 45 years ago this week",
+      "url": "https://twitter.com/ATRightMovies/status/1779443434790522982",
+      "comments": 0,
+      "score": 15,
+      "user": "tosh",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Florence museum won suit against publisher that used Michelangelo's David image",
+      "url": "https://news.artnet.com/art-world/florence-gallerie-dellaccademia-wins-david-lawsuit-2313262",
+      "comments": 83,
+      "score": 99,
+      "user": "josephcsible",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Open source versus Microsoft: The new rebellion begins",
+      "url": "https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/",
+      "comments": 88,
+      "score": 111,
+      "user": "xlinux",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Replicable functional brain signatures of 22q11.2 deletion syndrome andpsychosis",
+      "url": "https://www.nature.com/articles/s41380-024-02495-8",
+      "comments": 0,
+      "score": 3,
+      "user": "bookofjoe",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ask HN: Learning about build systems generally",
+      "url": "item?id=40023216",
+      "comments": 5,
+      "score": 19,
+      "user": "dmvdoug",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Roku makes 2FA mandatory for all after nearly 600K accounts pwned",
+      "url": "https://www.theregister.com/2024/04/15/roku_2fa_for_everyone/",
+      "comments": 10,
+      "score": 23,
+      "user": "rntn",
+      "age": "23 hours ago"
+    },
+    {
+      "title": "For Go programmers, a cheap CGo pattern to give Jia Tan a headache",
+      "url": "https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a",
+      "comments": 2,
+      "score": 44,
+      "user": "CanaryLayout",
+      "age": "2 days ago"
+    },
+    {
+      "title": "OpenTofu Project Denies HashiCorp's Allegations of Code Theft",
+      "url": "https://thenewstack.io/opentofu-project-denies-hashicorps-allegations-of-code-theft/",
+      "comments": 0,
+      "score": 27,
+      "user": "msolujic",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Go performance from version 1.0 to 1.22",
+      "url": "https://benhoyt.com/writings/go-version-performance-2024/",
+      "comments": 0,
+      "score": 14,
+      "user": "todsacerdoti",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Show HN: Comprehensive inter-process communication (IPC) toolkit in modern C++",
+      "url": "https://github.com/Flow-IPC",
+      "comments": 53,
+      "score": 87,
+      "user": "ygoldfeld",
+      "age": "2 days ago"
+    },
+    {
+      "title": "I Optimised My Game Engine Up to 12000 FPS [video]",
+      "url": "https://www.youtube.com/watch?v=40JzyaOYJeY",
+      "comments": 9,
+      "score": 37,
+      "user": "Orochikaku",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Godot as an Embeddable Game Engine",
+      "url": "https://tirania.org/blog/archive/2024/Apr-23.html",
+      "comments": 36,
+      "score": 110,
+      "user": "goranmoomin",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Kerodon – an online resource for homotopy-coherent mathematics",
+      "url": "https://kerodon.net/",
+      "comments": 0,
+      "score": 38,
+      "user": "aleph_minus_one",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Cheap Stuff on Temu Opens a New Generational Divide",
+      "url": "https://www.wsj.com/lifestyle/temu-victims-parents-kids-bargain-shopping-ca25ef93",
+      "comments": 13,
+      "score": 12,
+      "user": "lxm",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Texas' skyscrapers are going dark to keep billions of birds safe",
+      "url": "https://www.bbc.com/future/article/20240410-how-switching-off-lights-stops-migrating-birds-collisions-with-buildings",
+      "comments": 0,
+      "score": 11,
+      "user": "Brajeshwar",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Government spyware is another reason to use an ad blocker",
+      "url": "https://techcrunch.com/2024/04/13/government-spyware-use-ad-blocker/",
+      "comments": 0,
+      "score": 8,
+      "user": "ilikecinnamon",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Apple Readies M4 Chip Mac Line, Including New MacBook Air and Mac Pro",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro",
+      "comments": 60,
+      "score": 36,
+      "user": "walterbell",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Tesla drops FSD price to $99 per month in US",
+      "url": "https://techcrunch.com/2024/04/12/tesla-drops-fsd-price-to-99-per-month-in-us/",
+      "comments": 13,
+      "score": 25,
+      "user": "mfiguiere",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Cancer patients can now be 'matched' to best treatment with DNA",
+      "url": "https://theconversation.com/personalized-cancer-treatments-based-on-testing-drugs-quickly-leads-to-faster-treatment-better-outcomes-221469",
+      "comments": 0,
+      "score": 6,
+      "user": "birriel",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Why America Fell for Guns",
+      "url": "https://aeon.co/essays/america-fell-for-guns-recently-and-for-reasons-you-will-not-guess",
+      "comments": 19,
+      "score": 8,
+      "user": "sorokod",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Schools Blocked Homework and Censored Suicide Prevention Sites",
+      "url": "https://themarkup.org/digital-book-banning/2024/04/13/schools-were-just-supposed-to-block-porn-instead-they-sabotaged-homework-and-censored-suicide-prevention-sites",
+      "comments": 0,
+      "score": 10,
+      "user": "billybuckwheat",
+      "age": "2 days ago"
+    },
+    {
+      "title": "California Is Losing Tech Jobs",
+      "url": "https://www.apricitas.io/p/california-is-losing-tech-jobs",
+      "comments": 2,
+      "score": 9,
+      "user": "paulpauper",
+      "age": "1 day ago"
+    },
+    {
+      "title": "IC3PEAK – Marching [video]",
+      "url": "https://www.youtube.com/watch?v=xqohApD6Ng8",
+      "comments": 6,
+      "score": 18,
+      "user": "consumer451",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Judge halts Texas probe into Media Matters' reporting on X",
+      "url": "https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/",
+      "comments": 41,
+      "score": 48,
+      "user": "nickthegreek",
+      "age": "20 hours ago"
+    },
+    {
+      "title": "Mass die-off half a billion years ago caused by shifting tectonic plates",
+      "url": "https://www.livescience.com/archaeology/mass-die-off-half-a-billion-years-ago-caused-by-shifting-tectonic-plates-ancient-rocks-reveal",
+      "comments": 0,
+      "score": 10,
+      "user": "Brajeshwar",
+      "age": "2 days ago"
+    },
+    {
+      "title": "What Ramadan is like in Xinjiang",
+      "url": "https://www.economist.com/china/2024/04/11/what-ramadan-is-like-in-xinjiang",
+      "comments": 2,
+      "score": 16,
+      "user": "jseliger",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Hidden dependencies in Linux binaries",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html",
+      "comments": 68,
+      "score": 115,
+      "user": "thunderbong",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Something for the metalheads: Master Boot Record – Internet Protocol [video]",
+      "url": "https://www.youtube.com/watch?v=t6KFfYdNPh8",
+      "comments": 4,
+      "score": 13,
+      "user": "bschmidt1",
+      "age": "17 hours ago"
+    },
+    {
+      "title": "A brief, weird history of brainwashing",
+      "url": "https://www.technologyreview.com/2024/04/12/1090726/brainwashing-mind-control-history-operation-midnight-climax/",
+      "comments": 6,
+      "score": 21,
+      "user": "EndXA",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Fortran Standard Library: release v0.5.0",
+      "url": "https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827",
+      "comments": 0,
+      "score": 18,
+      "user": "zaikunzhang",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Google goes all in on generative AI at Google Cloud Next",
+      "url": "https://techcrunch.com/2024/04/13/google-goes-all-in-on-generative-ai-at-google-cloud-next/",
+      "comments": 6,
+      "score": 15,
+      "user": "belter",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Monomyth",
+      "url": "https://en.wikipedia.org/wiki/Hero%27s_journey",
+      "comments": 0,
+      "score": 5,
+      "user": "tosh",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Emacs 2011-2023",
+      "url": "https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html",
+      "comments": 82,
+      "score": 61,
+      "user": "todsacerdoti",
+      "age": "1 day ago"
+    },
+    {
+      "title": "TCS sued for discriminating against Americans for H1Bs",
+      "url": "https://economictimes.indiatimes.com/nri/work/us-techie-sues-tcs-for-discrimination-against-americans-and-favouring-indians-on-h-1b-visas/articleshow/109237855.cms?from=mdr",
+      "comments": 4,
+      "score": 17,
+      "user": "deathtrader666",
+      "age": "1 day ago"
+    },
+    {
+      "title": "DES/3DES Algorithm Illustration",
+      "url": "https://hereket.com/tiny/des-algorithm/",
+      "comments": 2,
+      "score": 56,
+      "user": "libcheet",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Review: Levitouch Dual Arm Monitor Mount by Gabor (2023)",
+      "url": "https://larryjordan.com/articles/review-levitouch-dual-arm-monitor-mount-by-gabor/",
+      "comments": 5,
+      "score": 20,
+      "user": "walterbell",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Is the Atlantic Overturning Circulation Approaching a Tipping Point?",
+      "url": "https://tos.org/oceanography/article/is-the-atlantic-overturning-circulation-approaching-a-tipping-point",
+      "comments": 18,
+      "score": 72,
+      "user": "Anon84",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Tesla Allegedly Pauses Cybertruck Deliveries",
+      "url": "https://www.theautopian.com/tesla-allegedly-pauses-cybertruck-deliveries-as-owner-complains-accelerator-pedal-fell-apart/",
+      "comments": 29,
+      "score": 24,
+      "user": "wzm",
+      "age": "1 day ago"
+    },
+    {
+      "title": "60k On Hold with Stripe for 9 months..",
+      "url": "item?id=40043536",
+      "comments": 0,
+      "score": 14,
+      "user": "vlntnxlepcha",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "Physicists Know How the Strong Force Gets Its Strength",
+      "url": "https://www.scientificamerican.com/article/physicists-finally-know-how-the-strong-force-gets-its-strength/",
+      "comments": 0,
+      "score": 14,
+      "user": "LinuxBender",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Friedrich Glasl's model of conflict escalation",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Glasl%27s_model_of_conflict_escalation",
+      "comments": 0,
+      "score": 7,
+      "user": "andyjohnson0",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Why is Montreal a stolen car export hub?",
+      "url": "https://nationalpost.com/news/canada/why-is-montreal-a-stolen-car-export-hub-jurisdiction-limits-and-size-officials-say",
+      "comments": 11,
+      "score": 37,
+      "user": "andy99",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Mystery of Where Gold and Platinum Come from Deepens After Gargantuan Explosion",
+      "url": "https://gizmodo.com/gold-platinum-brightest-of-all-time-gamma-ray-burst-1851406426",
+      "comments": 6,
+      "score": 14,
+      "user": "wglb",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "BYD Got €3.4B Chinese Aid to Dominate EVs, Study Says",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-10/byd-got-3-4-billion-chinese-aid-to-dominate-evs-study-says",
+      "comments": 24,
+      "score": 36,
+      "user": "jseliger",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Linux 6.10 to Merge Driver for Emulating Windows NT Synchronization Primitives",
+      "url": "https://www.phoronix.com/news/Linux-6.10-Merging-NTSYNC",
+      "comments": 9,
+      "score": 43,
+      "user": "dralley",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Ask HN: Diagramming AI Tools?",
+      "url": "item?id=40019697",
+      "comments": 4,
+      "score": 8,
+      "user": "aliasxneo",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Mathematical Handbook: Higher Mathematics",
+      "url": "https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir",
+      "comments": 4,
+      "score": 20,
+      "user": "slicktux",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Psychedelics and trauma: How one survivor of festival terrorism 'felt no fear'",
+      "url": "https://www.smh.com.au/world/middle-east/psychedelics-and-trauma-how-one-survivor-of-festival-terror-attack-felt-no-fear-20240411-p5fj8q.html",
+      "comments": 7,
+      "score": 21,
+      "user": "keepamovin",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Deliberative Consensus Protocols",
+      "url": "https://social-protocols.org/deliberative-consensus-protocols/",
+      "comments": 8,
+      "score": 23,
+      "user": "jwarden",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Evidence of a new subatomic particle observed",
+      "url": "https://phys.org/news/2024-04-evidence-subatomic-particle.html",
+      "comments": 2,
+      "score": 10,
+      "user": "ororm",
+      "age": "2 days ago"
+    },
+    {
+      "title": "YouTube's Screen Stealer",
+      "url": "https://joe-steel.com/2024-04-12-YouTubes-Screen-Stealer.html",
+      "comments": 0,
+      "score": 15,
+      "user": "MBCook",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Cheap Mortgages Deter Workers from Relocating for $250k Jobs",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-12/cheap-mortgages-deter-midwest-auto-workers-from-moving-south",
+      "comments": 27,
+      "score": 39,
+      "user": "safaa1993",
+      "age": "3 days ago"
+    },
+    {
+      "title": "NASA Next-Generation Solar Sail Boom Technology Ready for Launch",
+      "url": "https://www.nasa.gov/general/nasa-next-generation-solar-sail-boom-technology-ready-for-launch/",
+      "comments": 0,
+      "score": 9,
+      "user": "taubek",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Employing Others Is Linked to Wealth and Wellbeing",
+      "url": "https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx",
+      "comments": 62,
+      "score": 73,
+      "user": "jyunwai",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Employing Others Is Linked to Wealth and Wellbeing",
+      "url": "https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx",
+      "comments": 62,
+      "score": 73,
+      "user": "jyunwai",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Cosmic Map Suggests Dark Energy Is Even Weirder Than We Thought",
+      "url": "https://www.scientificamerican.com/article/does-dark-energy-change-over-time/",
+      "comments": 0,
+      "score": 5,
+      "user": "LinuxBender",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Daily-Driving a Blackberry in 2023",
+      "url": "https://www.scd31.com/posts/blackberry-in-2023",
+      "comments": 59,
+      "score": 41,
+      "user": "ColinWright",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Can Gemini 1.5 read all the Harry Potter books at once?",
+      "url": "https://twitter.com/deedydas/status/1778621375592485076/photo/1",
+      "comments": 38,
+      "score": 57,
+      "user": "petulla",
+      "age": "3 days ago"
+    },
+    {
+      "title": "George Washington Carver",
+      "url": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+      "comments": 0,
+      "score": 4,
+      "user": "thunderbong",
+      "age": "3 days ago"
+    },
+    {
+      "title": "From boom to burst, the AI bubble is only heading in one direction",
+      "url": "https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction",
+      "comments": 9,
+      "score": 19,
+      "user": "the_panopticon",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Apple's iPhone Shipments Plunge 10% as Android Rivals Rise",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-15/apple-s-iphone-shipments-plunge-10-as-android-rivals-rise",
+      "comments": 50,
+      "score": 42,
+      "user": "mfiguiere",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Adobe will fork over cash for clips to train text-to-video AI",
+      "url": "https://www.theregister.com/2024/04/12/adobe_buying_videos_ai/",
+      "comments": 2,
+      "score": 9,
+      "user": "alexahn",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Entangled entities: Bohr, Einstein and the battle over quantum fundamentals",
+      "url": "https://physicsworld.com/a/entangled-entities-bohr-einstein-and-the-battle-over-quantum-fundamentals/",
+      "comments": 4,
+      "score": 9,
+      "user": "rbanffy",
+      "age": "2 days ago"
+    },
+    {
+      "title": "To make sure grandmas like his don't get conned, he scams the scammers",
+      "url": "https://www.npr.org/2024/04/15/1243189142/scam-baiter-kitboga",
+      "comments": 58,
+      "score": 35,
+      "user": "everybodyknows",
+      "age": "1 day ago"
+    },
+    {
+      "title": "AnberDeck mod turns Anbernic RG353V game system into a handheld Linux terminal",
+      "url": "https://liliputing.com/anberdeck-mod-turns-anbernic-rg353v-game-system-into-a-handheld-linux-terminal/",
+      "comments": 0,
+      "score": 7,
+      "user": "edward",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Open Source, Supply Chains, and Bears",
+      "url": "https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/",
+      "comments": 14,
+      "score": 18,
+      "user": "CiPHPerCoder",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Snikket Android app temporarily unavailable in Google Play store",
+      "url": "https://snikket.org/blog/snikket-google-play-removal/",
+      "comments": 7,
+      "score": 20,
+      "user": "zaik",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Yagi–Uda Antenna",
+      "url": "https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna",
+      "comments": 9,
+      "score": 8,
+      "user": "keepamovin",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The Battle of B-R5RB",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_B-R5RB",
+      "comments": 0,
+      "score": 5,
+      "user": "TheFreim",
+      "age": "3 days ago"
+    },
+    {
+      "title": "China's Crumbling Metro(s)",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-12/addis-ababa-ethiopia-metro-s-decline-shows-china-s-step-back-from-africa",
+      "comments": 2,
+      "score": 6,
+      "user": "cwwc",
+      "age": "1 day ago"
+    },
+    {
+      "title": "50% discount on OpenAI pricing if you submit a batch and give them up to 24h",
+      "url": "https://twitter.com/simonw/status/1779932174592167965",
+      "comments": 61,
+      "score": 89,
+      "user": "tosh",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "Journalism in the Digital Age",
+      "url": "https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Journalism/index.html",
+      "comments": 4,
+      "score": 27,
+      "user": "bx376",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The $2B Central Subway has lots of leaks, few riders",
+      "url": "https://sfstandard.com/2024/04/12/san-francisco-central-subway-leaks/",
+      "comments": 3,
+      "score": 7,
+      "user": "nradov",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Google kills \"One\" VPN service",
+      "url": "https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/",
+      "comments": 13,
+      "score": 43,
+      "user": "belter",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Super Mario 64's invisible walls explained [video]",
+      "url": "https://www.youtube.com/watch?v=YsXCVsDFiXA",
+      "comments": 43,
+      "score": 135,
+      "user": "mbStavola",
+      "age": "2 days ago"
+    },
+    {
+      "title": "llm.c is now down to 26.2ms/iteration, matching PyTorch",
+      "url": "https://twitter.com/karpathy/status/1779272336186978707",
+      "comments": 8,
+      "score": 46,
+      "user": "tosh",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Huawei building chip equipment R&D center in Shanghai",
+      "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai",
+      "comments": 44,
+      "score": 38,
+      "user": "ksec",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Ask HN: Does it still matter to be in the Bay Area?",
+      "url": "item?id=40034662",
+      "comments": 77,
+      "score": 67,
+      "user": "b20000",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Is the Ballmer Peak real? (2011)",
+      "url": "https://skeptics.stackexchange.com/questions/2795/is-the-ballmer-peak-real",
+      "comments": 18,
+      "score": 24,
+      "user": "tosh",
+      "age": "2 days ago"
+    },
+    {
+      "title": "AI spam is winning the battle against search engine quality",
+      "url": "https://www.theregister.com/2024/04/13/google_ai_spam/",
+      "comments": 21,
+      "score": 26,
+      "user": "cebert",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Tomorrow is the 10-year anniversary of SwiftOnSecurity. Here's the story",
+      "url": "https://threadreaderapp.com/thread/1777505144709550302.html",
+      "comments": 2,
+      "score": 17,
+      "user": "notamy",
+      "age": "3 days ago"
+    },
+    {
+      "title": "List of failed and overbudget custom software projects",
+      "url": "https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects",
+      "comments": 0,
+      "score": 3,
+      "user": "aragonite",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Countersteering",
+      "url": "https://en.wikipedia.org/wiki/Countersteering",
+      "comments": 0,
+      "score": 12,
+      "user": "rappatic",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Elon Musk plans to charge new X users to enable posting",
+      "url": "https://techcrunch.com/2024/04/15/elon-musk-plans-to-charge-new-x-users-to-enable-posting/",
+      "comments": 4,
+      "score": 9,
+      "user": "jrflowers",
+      "age": "20 hours ago"
+    },
+    {
+      "title": "WD Ultrastar Transporter: Briefcase with 368TB of NVMe SSD, 128GB RAM, 1300W PSU",
+      "url": "https://www.tomshardware.com/desktops/servers/this-briefcase-lets-you-walk-around-with-368tb-of-nvme-ssds",
+      "comments": 58,
+      "score": 47,
+      "user": "miles",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Robert MacNeil, creator and first anchor of PBS 'NewsHour,' dies at 93",
+      "url": "https://text.npr.org/1244469769",
+      "comments": 0,
+      "score": 6,
+      "user": "h2odragon",
+      "age": "3 days ago"
+    },
+    {
+      "title": "China Already Makes as Many Batteries as the Entire World Wants",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-04-12/china-already-makes-as-many-batteries-as-the-entire-world-wants",
+      "comments": 2,
+      "score": 6,
+      "user": "toomuchtodo",
+      "age": "1 day ago"
+    },
+    {
+      "title": "China Says Nearly One-Fifth of Its Arable Land Is Polluted",
+      "url": "https://www.wsj.com/articles/SB10001424052702304626304579507040557046288",
+      "comments": 0,
+      "score": 11,
+      "user": "walterbell",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Gordon Ramsay's £13M pub taken over by squatters",
+      "url": "https://www.thesun.co.uk/tvandshowbiz/27291267/gordon-ramsa-london-pub-squatters-york-albany/",
+      "comments": 44,
+      "score": 33,
+      "user": "lisper",
+      "age": "1 day ago"
+    },
+    {
+      "title": "App Scout Park lets users in Sweden tip off wrongly parked cars to earn money",
+      "url": "https://www.euronews.com/next/2024/04/11/swedish-app-launched-where-you-can-tip-off-wrongly-parked-cars-to-earn-money",
+      "comments": 0,
+      "score": 10,
+      "user": "type0",
+      "age": "3 days ago"
+    },
+    {
+      "title": "termui: Golang Terminal Dashboard",
+      "url": "https://github.com/gizak/termui",
+      "comments": 2,
+      "score": 17,
+      "user": "teleforce",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion",
+      "url": "https://www.commondreams.org/news/spying-expansion-trump",
+      "comments": 4,
+      "score": 24,
+      "user": "wahnfrieden",
+      "age": "17 hours ago"
+    },
+    {
+      "title": "Top Europe court chides Switzerland in landmark climate ruling",
+      "url": "https://phys.org/news/2024-04-europe-court-chides-switzerland-landmark.html",
+      "comments": 32,
+      "score": 28,
+      "user": "janandonly",
+      "age": "1 day ago"
+    },
+    {
+      "title": "DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About",
+      "url": "https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/",
+      "comments": 62,
+      "score": 57,
+      "user": "pabs3",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Grok-1.5 Vision Preview",
+      "url": "https://x.ai/blog/grok-1.5v",
+      "comments": 21,
+      "score": 86,
+      "user": "runesoerensen",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Google Cloud Next 2024: Everything announced so far",
+      "url": "https://techcrunch.com/2024/04/10/google-cloud-next-2024-everything-you-need-to-know/",
+      "comments": 0,
+      "score": 13,
+      "user": "karp773",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The First Beta of Android 15",
+      "url": "https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html",
+      "comments": 15,
+      "score": 35,
+      "user": "kieto",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Geoffrey Hinton: AI models have intuition and spot analogies unseen by humans",
+      "url": "https://twitter.com/tsarnick/status/1778524418593218837",
+      "comments": 64,
+      "score": 32,
+      "user": "retskrad",
+      "age": "21 hours ago"
+    },
+    {
+      "title": "Astonishing array of wildlife discovered in Cambodia mangroves",
+      "url": "https://www.theguardian.com/environment/2024/apr/14/cambodia-mangroves-wildlife-diversity",
+      "comments": 0,
+      "score": 4,
+      "user": "adrian_mrd",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Report details how Russia obtains Starlink terminals for war in Ukraine",
+      "url": "https://arstechnica.com/tech-policy/2024/04/report-details-how-russia-obtains-starlink-terminals-for-war-in-ukraine/",
+      "comments": 2,
+      "score": 13,
+      "user": "PaulHoule",
+      "age": "2 days ago"
+    },
+    {
+      "title": "From boom to burst, the AI bubble is only heading in one direction",
+      "url": "https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction",
+      "comments": 7,
+      "score": 17,
+      "user": "marban",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Sleeping more flushes junk out of the brain",
+      "url": "https://arstechnica.com/science/2024/04/sleeping-more-flushes-junk-out-of-the-brain/",
+      "comments": 8,
+      "score": 36,
+      "user": "Brajeshwar",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Dune ornithopters flap their blades in the wrong plane for vertical takeoff",
+      "url": "https://twitter.com/Nicholas_Rehm/status/1779204838510735781",
+      "comments": 23,
+      "score": 19,
+      "user": "mariuz",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Fastest way to get IPv4 address from string (2015)",
+      "url": "https://stackoverflow.com/questions/31679341/fastest-way-to-get-ipv4-address-from-string",
+      "comments": 10,
+      "score": 25,
+      "user": "melenaboija",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Goldman Says It's Time to Take Tech Profits and Invest Elsewhere",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-10/goldman-says-it-s-time-to-take-tech-profits-and-invest-elsewhere",
+      "comments": 8,
+      "score": 17,
+      "user": "andy99",
+      "age": "2 days ago"
+    },
+    {
+      "title": "House Votes to Extend–and Expand–A Major US Spy Program",
+      "url": "https://www.wired.com/story/house-section-702-vote/",
+      "comments": 100,
+      "score": 126,
+      "user": "okasaki",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Notes on Git's Error Messages",
+      "url": "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/",
+      "comments": 2,
+      "score": 24,
+      "user": "Brajeshwar",
+      "age": "3 days ago"
+    },
+    {
+      "title": "American Airlines' CEO Earned $31.4M While the Company Struggled",
+      "url": "https://viewfromthewing.com/americans-ceo-earned-31-4-million-last-year-heres-a-deep-dive-into-how-that-happened/",
+      "comments": 0,
+      "score": 8,
+      "user": "gleff",
+      "age": "3 days ago"
+    },
+    {
+      "title": "CISA opens its malware analysis and threat hunting tool for public use",
+      "url": "https://www.csoonline.com/article/2089512/cisa-opens-its-malware-analysis-and-threat-hunting-tool-for-public-use.html",
+      "comments": 0,
+      "score": 8,
+      "user": "bookofjoe",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Three sailors rescued in the Pacific after calling for help with palm leaves",
+      "url": "https://english.elpais.com/international/2024-04-12/three-sailors-rescued-in-the-pacific-after-calling-for-help-with-palm-leaves.html",
+      "comments": 0,
+      "score": 5,
+      "user": "geox",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Wikipedia Abuse Filter",
+      "url": "https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500",
+      "comments": 6,
+      "score": 26,
+      "user": "altilunium",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Beware of EuroDNS",
+      "url": "https://ivdl.co.za/2024/04/14/beware-of-eurodns/",
+      "comments": 16,
+      "score": 25,
+      "user": "Ianvdl",
+      "age": "2 days ago"
+    },
+    {
+      "title": "From boom to burst, the AI bubble is only heading in one direction",
+      "url": "https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction",
+      "comments": 0,
+      "score": 4,
+      "user": "bookofjoe",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Elon Musk's xAI previews Grok-1.5V, its first multimodal model",
+      "url": "https://venturebeat.com/ai/elon-musks-xai-previews-grok-1-5v-its-first-multimodal-model/",
+      "comments": 0,
+      "score": 14,
+      "user": "ulrischa",
+      "age": "2 days ago"
+    },
+    {
+      "title": "China's Young People Are Giving Up on Saving for Retirement",
+      "url": "https://www.nytimes.com/2024/04/05/business/china-pensions-youth-retirement.html",
+      "comments": 10,
+      "score": 12,
+      "user": "bookofjoe",
+      "age": "3 days ago"
+    },
+    {
+      "title": "TikTok ban: Vinod Khosla calls on Senate to pass bill",
+      "url": "https://www.cnbc.com/2024/04/11/tiktok-ban-vinod-khosla-calls-on-senate-to-pass-bill.html",
+      "comments": 8,
+      "score": 10,
+      "user": "segasaturn",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Ionos prices go up after Broadcom acquires VMware",
+      "url": "https://twitter.com/BigBalli/status/1779878305812152367",
+      "comments": 0,
+      "score": 11,
+      "user": "BigBalli",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Asking BigTech to police AI is like asking oil companies to solve climate change",
+      "url": "https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/",
+      "comments": 18,
+      "score": 58,
+      "user": "tosh",
+      "age": "20 hours ago"
+    },
+    {
+      "title": "China orders its telcos to rip and replace US chips homegrown silicon by 2027",
+      "url": "https://www.theregister.com/2024/04/13/china_telco_chips/",
+      "comments": 0,
+      "score": 5,
+      "user": "LinuxBender",
+      "age": "3 days ago"
+    },
+    {
+      "title": "People with more money 'struggle with generosity,' expert says",
+      "url": "https://www.cnbc.com/2024/04/13/why-your-rich-friend-venmo-requests-you-for-4.html",
+      "comments": 2,
+      "score": 7,
+      "user": "rustoo",
+      "age": "2 days ago"
+    },
+    {
+      "title": "The Work-from-Home Era Is Bad for Burglars",
+      "url": "https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars",
+      "comments": 25,
+      "score": 31,
+      "user": "xqcgrek2",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Sucker Games",
+      "url": "https://toluakinola.substack.com/p/sucker-games",
+      "comments": 5,
+      "score": 4,
+      "user": "takinola",
+      "age": "1 day ago"
+    },
+    {
+      "title": "How to shatter the class solidarity of the ruling class – by Cory Doctorow",
+      "url": "https://doctorow.medium.com/how-to-shatter-the-class-solidarity-of-the-ruling-class-68d441128caf",
+      "comments": 2,
+      "score": 10,
+      "user": "rbanffy",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Show HN: A searchable public database of cheaters in video games",
+      "url": "https://www.gamingherd.com/toxic-db",
+      "comments": 33,
+      "score": 29,
+      "user": "liamneesonsarm",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Why so many of us were wrong about missile defense",
+      "url": "https://www.noahpinion.blog/p/why-so-many-of-us-were-wrong-about",
+      "comments": 94,
+      "score": 58,
+      "user": "paulpauper",
+      "age": "15 hours ago"
+    },
+    {
+      "title": "Why dentists say you shouldn't rinse after brushing",
+      "url": "https://www.washingtonpost.com/wellness/2024/04/12/fluoride-toothpaste-rinsing/",
+      "comments": 48,
+      "score": 44,
+      "user": "bookofjoe",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Fedora 41 Looks to \"-O3\" Optimizations for Its Python Build",
+      "url": "https://www.phoronix.com/news/Fedora-41-O3-Python-Proposal",
+      "comments": 5,
+      "score": 16,
+      "user": "LinuxBender",
+      "age": "3 days ago"
+    },
+    {
+      "title": "\"Highly capable\" hackers root corporate networks by exploiting firewall 0-day",
+      "url": "https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/",
+      "comments": 0,
+      "score": 24,
+      "user": "hassanahmad",
+      "age": "3 days ago"
+    },
+    {
+      "title": "EVs are lowering Bay Area's carbon footprint",
+      "url": "https://news.berkeley.edu/2024/04/04/evs-are-lowering-bay-area-s-carbon-footprint",
+      "comments": 72,
+      "score": 42,
+      "user": "geox",
+      "age": "3 days ago"
+    },
+    {
+      "title": "China is giving Russia significant support to expand weapons manufacturing",
+      "url": "https://www.cnn.com/2024/04/12/politics/china-russia-support-weapons-manufacturing/index.html",
+      "comments": 41,
+      "score": 35,
+      "user": "peutetre",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Interview with Senior JavaScript Developer 2024 [video]",
+      "url": "https://www.youtube.com/watch?v=aWfYxg-Ypm4",
+      "comments": 70,
+      "score": 130,
+      "user": "tosh",
+      "age": "1 day ago"
+    },
+    {
+      "title": "We cut costs by 70% by moving from GCP and CockroachDB to Hetzner and PostgreSQL",
+      "url": "https://blog.mikoto.io/building-your-own-cloud-for-fun-and-profit",
+      "comments": 69,
+      "score": 43,
+      "user": "CactusBlue",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Fedora 41 will unify bin and sbin",
+      "url": "https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin",
+      "comments": 69,
+      "score": 77,
+      "user": "rwmj",
+      "age": "2 days ago"
+    },
+    {
+      "title": "OpenTTD 14.0",
+      "url": "https://www.openttd.org/news/2024/04/13/openttd-14-0",
+      "comments": 4,
+      "score": 44,
+      "user": "BeefySwain",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Ferret-v2: An Improved Baseline for Referring and Grounding with LLMs",
+      "url": "https://huggingface.co/papers/2404.07973",
+      "comments": 0,
+      "score": 5,
+      "user": "CharlesW",
+      "age": "3 days ago"
+    },
+    {
+      "title": "The Home-Solar Boom Gets a 'Gut Punch'",
+      "url": "https://www.wsj.com/business/energy-oil/the-home-solar-boom-gets-a-gut-punch-2d6a2947",
+      "comments": 14,
+      "score": 6,
+      "user": "jseliger",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Fortran-lang joins NumFOCUS as a sponsored project",
+      "url": "https://twitter.com/fortranlang/status/1778953864458174941",
+      "comments": 0,
+      "score": 11,
+      "user": "SiempreViernes",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Can you really explain the difference? Subtle nuances of English words",
+      "url": "https://lithub.com/yes-but-can-you-really-explain-the-difference-between-morals-and-ethics/",
+      "comments": 87,
+      "score": 47,
+      "user": "HR01",
+      "age": "3 days ago"
+    },
+    {
+      "title": "How to Send an SMS in Haskell (2017)",
+      "url": "https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html",
+      "comments": 9,
+      "score": 12,
+      "user": "mooreds",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Device stopped working because your medical prescription has expired",
+      "url": "https://olympicophthalmics.com/itear-100/faqs/",
+      "comments": 55,
+      "score": 48,
+      "user": "davikr",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Rat Rods: Teaching a rat to drive a car",
+      "url": "https://www.instagram.com/emperorsofmischief/reel/C5jam-ESlDE/",
+      "comments": 2,
+      "score": 7,
+      "user": "ColinWright",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Boeing whistleblowers say Boeing retaliates against whistleblowers",
+      "url": "https://qz.com/boeing-whistleblowers-retaliation-1851405873",
+      "comments": 3,
+      "score": 11,
+      "user": "kryster",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...",
+      "url": "https://hackers.town/@CyberpunkLibrarian/112046696080448828",
+      "comments": 15,
+      "score": 47,
+      "user": "ColinWright",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Homicides are plummeting in American cities",
+      "url": "https://www.wsj.com/us-news/murder-rates-down-new-york-san-francisco-philadelphia-508b6855",
+      "comments": 53,
+      "score": 47,
+      "user": "birriel",
+      "age": "2 days ago"
+    },
+    {
+      "title": "YouTube has a new design on desktop and everyone is mad about it",
+      "url": "https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/",
+      "comments": 74,
+      "score": 53,
+      "user": "rpgbr",
+      "age": "3 days ago"
+    },
+    {
+      "title": "China develops photonic AI chip",
+      "url": "https://www.science.org/doi/10.1126/science.adl1203",
+      "comments": 19,
+      "score": 21,
+      "user": "Beijinger",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Self-Hosted Is Awesome",
+      "url": "https://pixeljets.com/blog/self-hosted-is-awesome/",
+      "comments": 48,
+      "score": 69,
+      "user": "thunderbong",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Apple argues in favor of selling Macs with only 8GB of RAM",
+      "url": "https://9to5mac.com/2024/04/12/apple-8gb-ram-mac/",
+      "comments": 63,
+      "score": 27,
+      "user": "jonbaer",
+      "age": "2 days ago"
+    },
+    {
+      "title": "What will humans do if technology solves everything?",
+      "url": "https://www.economist.com/finance-and-economics/2024/04/09/what-will-humans-do-if-technology-solves-everything",
+      "comments": 86,
+      "score": 33,
+      "user": "helsinkiandrew",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Broadcom has willingly dug its VMware hole, says cloud CEO [video]",
+      "url": "https://www.theregister.com/2024/04/08/broadcom_vmware_civo/",
+      "comments": 51,
+      "score": 28,
+      "user": "mooreds",
+      "age": "2 days ago"
+    },
+    {
+      "title": "20 years ago Gmail revolutionized email. It's time for a new revolution",
+      "url": "https://tuta.com/blog/gmail-20-years-old",
+      "comments": 77,
+      "score": 31,
+      "user": "dotcoma",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The little ssh that sometimes couldn't (2012)",
+      "url": "https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html",
+      "comments": 4,
+      "score": 48,
+      "user": "goranmoomin",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Why do we have such terrible evidence on homework effectiveness? (2022)",
+      "url": "https://www.astralcodexten.com/p/nobody-knows-how-well-homework-works",
+      "comments": 21,
+      "score": 24,
+      "user": "barry-cotter",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Taking CO2 out of the air would be an expensive way to fight climate change",
+      "url": "https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report",
+      "comments": 99,
+      "score": 42,
+      "user": "Brajeshwar",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Apple further explains why Game Boy emulator iGBA was removed from app store",
+      "url": "https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/",
+      "comments": 64,
+      "score": 37,
+      "user": "tosh",
+      "age": "22 hours ago"
+    },
+    {
+      "title": "Ask HN: Those who have recently undertaken a job hunt, what was your experience?",
+      "url": "item?id=40042321",
+      "comments": 69,
+      "score": 31,
+      "user": "icdtea",
+      "age": "23 hours ago"
+    },
+    {
+      "title": "Ask HN: Where did you first learn to code?",
+      "url": "item?id=40016864",
+      "comments": 42,
+      "score": 17,
+      "user": "Genius_um",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Tesla lays off more than 10% of its workforce",
+      "url": "https://www.bbc.co.uk/news/technology-68818113",
+      "comments": 32,
+      "score": 55,
+      "user": "choult",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Biden's new student loan forgiveness erase up to $20k in interest for millions",
+      "url": "https://www.cnbc.com/2024/04/08/bidens-student-loan-forgiveness-plan-could-erase-up-to-20000-in-interest.html",
+      "comments": 71,
+      "score": 20,
+      "user": "paulpauper",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Open Circuits Book",
+      "url": "https://opencircuitsbook.com/",
+      "comments": 10,
+      "score": 59,
+      "user": "sva_",
+      "age": "2 days ago"
+    },
+    {
+      "title": "US finalizes rules for 'forever chemicals' in drinking water",
+      "url": "https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards",
+      "comments": 10,
+      "score": 31,
+      "user": "goplayoutside",
+      "age": "2 days ago"
     }
   ],
   "101-200": [
     {
       "title": "A curious phenomenon called 'Etak'",
       "url": "https://maphappenings.com/2024/04/11/story-of-etak/",
-      "comments": 121,
-      "score": 485,
+      "comments": 125,
+      "score": 495,
       "user": "MBCook",
       "age": "12 hours ago"
     },
@@ -1054,23 +3638,15 @@
       "title": "Show HN: Building a GPS receiver",
       "url": "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/",
       "comments": 118,
-      "score": 468,
+      "score": 469,
       "user": "codyd51",
       "age": "1 day ago"
-    },
-    {
-      "title": "Object that slammed into Florida home was space junk for ISS, NASA confirms",
-      "url": "https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms",
-      "comments": 135,
-      "score": 160,
-      "user": "anigbrowl",
-      "age": "14 hours ago"
     },
     {
       "title": "Visualizing Attention, a Transformer's Heart [video]",
       "url": "https://www.3blue1brown.com/lessons/attention",
       "comments": 166,
-      "score": 918,
+      "score": 920,
       "user": "rohitpaulk",
       "age": "1 day ago"
     },
@@ -1078,7 +3654,7 @@
       "title": "A tiny ultrabright laser that can melt steel",
       "url": "https://spectrum.ieee.org/pcsel",
       "comments": 187,
-      "score": 305,
+      "score": 306,
       "user": "rbanffy",
       "age": "1 day ago"
     },
@@ -1109,17 +3685,9 @@
     {
       "title": "An FDA approved device offers a new treatment for tinnitus",
       "url": "https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise",
-      "comments": 165,
-      "score": 287,
+      "comments": 166,
+      "score": 288,
       "user": "andsoitis",
-      "age": "1 day ago"
-    },
-    {
-      "title": "Sleep apnea: Mouthguards less invasive, just as effective as CPAP",
-      "url": "https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/",
-      "comments": 163,
-      "score": 213,
-      "user": "peutetre",
       "age": "1 day ago"
     },
     {
@@ -1133,9 +3701,193 @@
     {
       "title": "Kate editor on all platforms",
       "url": "https://cullmann.io/posts/kate-on-all-platforms-2024/",
-      "comments": 144,
+      "comments": 145,
       "score": 296,
       "user": "cullmann",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Tree-shaking, the horticulturally misguided algorithm (2023)",
+      "url": "https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm",
+      "comments": 143,
+      "score": 244,
+      "user": "andsoitis",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Getting the Grid to Net Zero",
+      "url": "https://spectrum.ieee.org/electric-inverter",
+      "comments": 117,
+      "score": 110,
+      "user": "sohkamyung",
+      "age": "1 day ago"
+    },
+    {
+      "title": "My cat alerted me to a DDoS attack",
+      "url": "https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack",
+      "comments": 104,
+      "score": 269,
+      "user": "dguo",
+      "age": "1 day ago"
+    },
+    {
+      "title": "U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel",
+      "url": "https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e",
+      "comments": 107,
+      "score": 64,
+      "user": "safaa1993",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Research into why some people have a better sense of direction",
+      "url": "https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont",
+      "comments": 198,
+      "score": 167,
+      "user": "Brajeshwar",
+      "age": "3 days ago"
+    },
+    {
+      "title": "California exceeds 100% of energy demand with renewables over a record 30 days",
+      "url": "https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/",
+      "comments": 134,
+      "score": 129,
+      "user": "benkan",
+      "age": "9 hours ago"
+    },
+    {
+      "title": "Show HN: Mazelit - My wife and I released our first game",
+      "url": "item?id=40017180",
+      "comments": 153,
+      "score": 509,
+      "user": "janosdebugs",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Personal VPN services are snake oil",
+      "url": "https://httpscolonforwardslashforwardslashwwwdotzoltanbalazsdotcom.com/2024/03/01/VPN-Snakeoil.html",
+      "comments": 194,
+      "score": 143,
+      "user": "ementally",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Discovering my roommate's death on Facebook",
+      "url": "https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec",
+      "comments": 104,
+      "score": 179,
+      "user": "safaa1993",
+      "age": "1 day ago"
+    },
+    {
+      "title": "TwitchAdSolutions – Blocking Twitch Ads",
+      "url": "https://github.com/pixeltris/TwitchAdSolutions",
+      "comments": 112,
+      "score": 112,
+      "user": "11001100",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Old CSS, new CSS (2020)",
+      "url": "https://eev.ee/blog/2020/02/01/old-css-new-css/",
+      "comments": 109,
+      "score": 198,
+      "user": "Tomte",
+      "age": "2 days ago"
+    },
+    {
+      "title": "350 tons of of chocolate and wine arrive on world’s largest cargo sailboat",
+      "url": "https://untappedcities.com/2024/04/12/grain-de-sail-ll/",
+      "comments": 135,
+      "score": 127,
+      "user": "geox",
+      "age": "3 days ago"
+    },
+    {
+      "title": "EU data shows PHEVs emit 350% more CO2 than tested values",
+      "url": "https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values",
+      "comments": 109,
+      "score": 73,
+      "user": "teleforce",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Hospitals that make profits should pay taxes",
+      "url": "https://www.statnews.com/2024/04/14/nonprofit-hospitals-turn-profit-charity-care-tax-exempt-status/",
+      "comments": 195,
+      "score": 254,
+      "user": "jyunwai",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The Microsoft-Dilemma – Europe as a Software Colony – Full Documentary",
+      "url": "https://kolektiva.media/w/ra7bfqXCyqBFn7dSFhneFy",
+      "comments": 134,
+      "score": 102,
+      "user": "jrepinc",
+      "age": "2 days ago"
+    },
+    {
+      "title": "RFC: Banning \"AI\"-backed (LLM/GPT/whatever) contributions to Gentoo",
+      "url": "https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html",
+      "comments": 154,
+      "score": 163,
+      "user": "Lockal",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Problem with selling developer tools is that devs have no purchasing authority",
+      "url": "https://twitter.com/d_feldman/status/1779203622351339955",
+      "comments": 175,
+      "score": 205,
+      "user": "notRobot",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Physically attractive attorneys tend to have greater success in federal court",
+      "url": "https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/",
+      "comments": 113,
+      "score": 97,
+      "user": "bookofjoe",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Microsoft starts testing ads in the Windows 11 Start menu",
+      "url": "https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations",
+      "comments": 192,
+      "score": 197,
+      "user": "ashton314",
+      "age": "3 days ago"
+    },
+    {
+      "title": "LLMs Are This Close to Destroying the Internet",
+      "url": "https://boehs.org/node/llms-destroying-internet",
+      "comments": 106,
+      "score": 77,
+      "user": "cdme",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Ubisoft is stripping people's licences for The Crew weeks after its shutdown",
+      "url": "https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/",
+      "comments": 125,
+      "score": 181,
+      "user": "croes",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Many FBI agents are struggling to make ends meet. Housing costs are to blame",
+      "url": "https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs",
+      "comments": 160,
+      "score": 56,
+      "user": "okasaki",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Why No IPv6?",
+      "url": "https://whynoipv6.com/",
+      "comments": 176,
+      "score": 63,
+      "user": "Foxboron",
       "age": "1 day ago"
     }
   ],
@@ -1143,31 +3895,23 @@
     {
       "title": "Descent 3 Source Code",
       "url": "https://github.com/kevinbentley/Descent3",
-      "comments": 204,
-      "score": 863,
+      "comments": 208,
+      "score": 884,
       "user": "kevin42",
       "age": "11 hours ago"
     },
     {
-      "title": "To make a fortune, target bored young men who want to make a fortune",
-      "url": "https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4",
-      "comments": 287,
-      "score": 107,
-      "user": "pseudolus",
-      "age": "1 hour ago"
-    },
-    {
       "title": "Phone conversations with law enforcement can be recorded without their consent",
       "url": "https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808",
-      "comments": 246,
-      "score": 341,
+      "comments": 251,
+      "score": 343,
       "user": "jdmark",
       "age": "19 hours ago"
     },
     {
       "title": "Embezzlers Are Nice People (2017)",
       "url": "https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people",
-      "comments": 296,
+      "comments": 297,
       "score": 463,
       "user": "VHRanger",
       "age": "22 hours ago"
@@ -1184,7 +3928,7 @@
       "title": "Obituary for a quiet life (2023)",
       "url": "https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life",
       "comments": 279,
-      "score": 1388,
+      "score": 1390,
       "user": "conanxin",
       "age": "2 days ago"
     },
@@ -1195,16 +3939,144 @@
       "score": 279,
       "user": "chapulin",
       "age": "3 days ago"
+    },
+    {
+      "title": "Neon Serverless Postgres is generally available",
+      "url": "https://neon.tech/blog/neon-ga",
+      "comments": 209,
+      "score": 313,
+      "user": "refset",
+      "age": "1 day ago"
+    },
+    {
+      "title": "A day in the life of a Walmart manager",
+      "url": "https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f",
+      "comments": 247,
+      "score": 146,
+      "user": "impish9208",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Ask HN: What movies changed your perception of reality or life?",
+      "url": "item?id=40035002",
+      "comments": 204,
+      "score": 110,
+      "user": "metadat",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Show HN: My $1k self-install, off-grid solar backup build for renters",
+      "url": "https://sunboxlabs.com",
+      "comments": 221,
+      "score": 232,
+      "user": "nikodunk",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Japanese police arrest man for tampering with Pokémon Violet save data",
+      "url": "https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data",
+      "comments": 234,
+      "score": 200,
+      "user": "josephcsible",
+      "age": "3 days ago"
+    },
+    {
+      "title": "XZ backdoor story – Initial analysis",
+      "url": "https://securelist.com/xz-backdoor-story-part-1/112354/",
+      "comments": 249,
+      "score": 400,
+      "user": "kryster",
+      "age": "3 days ago"
+    },
+    {
+      "title": "I continue to no longer attend vintage computer festivals",
+      "url": "http://ascii.textfiles.com/archives/5591",
+      "comments": 204,
+      "score": 195,
+      "user": "ehPReth",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Defeated CEOs are now conceding hybrid working is here to stay",
+      "url": "https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/",
+      "comments": 211,
+      "score": 164,
+      "user": "safaa1993",
+      "age": "3 days ago"
+    },
+    {
+      "title": "Is .NET just miles ahead or am I delusional?",
+      "url": "https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/",
+      "comments": 250,
+      "score": 159,
+      "user": "popcalc",
+      "age": "3 days ago"
     }
   ],
   "301-n": [
     {
+      "title": "To make a fortune, target bored young men who want to make a fortune",
+      "url": "https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4",
+      "comments": 314,
+      "score": 119,
+      "user": "pseudolus",
+      "age": "1 hour ago"
+    },
+    {
       "title": "T-Mobile employees across the country receive cash offers to illegally swap SIMs",
       "url": "https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/",
       "comments": 379,
-      "score": 431,
+      "score": 432,
       "user": "miles",
-      "age": "18 hours ago"
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Tesla Cybertruck deliveries halted for 7 days",
+      "url": "https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17",
+      "comments": 362,
+      "score": 286,
+      "user": "bookofjoe",
+      "age": "1 day ago"
+    },
+    {
+      "title": "The darker side of being a doctor",
+      "url": "https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor",
+      "comments": 494,
+      "score": 611,
+      "user": "m-ahmed",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula",
+      "url": "https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/",
+      "comments": 417,
+      "score": 362,
+      "user": "robertn702",
+      "age": "2 days ago"
+    },
+    {
+      "title": "The FCC needs to stop 5G fast lanes",
+      "url": "https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them",
+      "comments": 313,
+      "score": 428,
+      "user": "rsingel",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Ford Mustang Mach-E using BlueCruise at time of crash: NTSB",
+      "url": "https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/",
+      "comments": 368,
+      "score": 152,
+      "user": "luu",
+      "age": "2 days ago"
+    },
+    {
+      "title": "Tesla to lay off more than 10% of its staff",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/",
+      "comments": 305,
+      "score": 236,
+      "user": "draugadrotten",
+      "age": "1 day ago"
     }
   ]
 }

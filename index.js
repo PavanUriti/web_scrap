@@ -33,7 +33,7 @@ const scrapeHackerNews = async (page) => {
     return newsItems;
   } catch (error) {
     console.error(`Error scraping Hacker News page ${page}:`, error);
-    return [];
+    throw error;
   }
 };
 
@@ -64,20 +64,29 @@ const exportToJsonFile = async (data) => {
     console.log('Data exported to hacker_news.json');
   } catch (error) {
     console.error('Error exporting to JSON:', error);
+    throw error;
   }
 };
+
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const main = async () => {
   let currentPage = 1;
   let allNewsItems = [];
+  const delayBetweenRequests = 2000;
 
   while (true) {
-    const newsItems = await scrapeHackerNews(currentPage);
-    if (newsItems.length === 0) {
-      break;
+    try {
+      const newsItems = await scrapeHackerNews(currentPage);
+      if (newsItems.length === 0) {
+        break;
+      }
+      allNewsItems.push(...newsItems);
+      currentPage++;
+      await delay(delayBetweenRequests);
+    } catch (error) {
+      console.error('Scraping failed...');
     }
-    allNewsItems.push(...newsItems);
-    currentPage++;
   }
 
   const groupedNews = groupNewsByCommentRange(allNewsItems);
