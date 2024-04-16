@@ -2,11 +2,13 @@ const fs = require('fs').promises;
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const URL = 'https://news.ycombinator.com/';
+const BASE_URL = 'https://news.ycombinator.com/';
+const PAGE_SUFFIX = '?p=';
 
-const scrapeHackerNews = async () => {
+const scrapeHackerNews = async (page) => {
   try {
-    const response = await axios.get(URL);
+    const url = page > 1 ? `${BASE_URL}${PAGE_SUFFIX}${page}` : BASE_URL;
+    const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
     const newsItems = $('.athing').map((index, element) => {
@@ -30,7 +32,7 @@ const scrapeHackerNews = async () => {
 
     return newsItems;
   } catch (error) {
-    console.error('Error scraping Hacker News:', error);
+    console.error(`Error scraping Hacker News page ${page}:`, error);
     return [];
   }
 };
@@ -66,8 +68,19 @@ const exportToJsonFile = async (data) => {
 };
 
 const main = async () => {
-  const newsItems = await scrapeHackerNews();
-  const groupedNews = groupNewsByCommentRange(newsItems);
+  let currentPage = 1;
+  let allNewsItems = [];
+
+  while (true) {
+    const newsItems = await scrapeHackerNews(currentPage);
+    if (newsItems.length === 0) {
+      break;
+    }
+    allNewsItems.push(...newsItems);
+    currentPage++;
+  }
+
+  const groupedNews = groupNewsByCommentRange(allNewsItems);
   await exportToJsonFile(groupedNews);
 };
 
