@@ -1,248 +1,249 @@
 {
   "0-100": [
     {
-      "title": "Descent 3 Source Code",
-      "url": "https://github.com/kevinbentley/Descent3",
-      "comments": 96,
-      "score": 492,
-      "user": "kevin42",
-      "age": "5 hours ago"
+      "title": "Loading a trillion rows of weather data into TimescaleDB",
+      "url": "https://aliramadhan.me/2024/03/31/trillion-rows.html",
+      "comments": 39,
+      "score": 95,
+      "user": "PolarizedPoutin",
+      "age": "2 hours ago"
     },
     {
-      "title": "A curious phenomenon called 'Etak'",
-      "url": "https://maphappenings.com/2024/04/11/story-of-etak/",
-      "comments": 71,
-      "score": 260,
-      "user": "MBCook",
-      "age": "6 hours ago"
+      "title": "Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders",
+      "url": "https://pmf.firstround.com/levels",
+      "comments": 3,
+      "score": 35,
+      "user": "yarapavan",
+      "age": "1 hour ago"
+    },
+    {
+      "title": "A visual guide to Vision Transformer – A scroll story",
+      "url": "https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html",
+      "comments": 4,
+      "score": 40,
+      "user": "md2rp",
+      "age": "54 minutes ago"
+    },
+    {
+      "title": "Justice Department to File Antitrust Suit Against Live Nation",
+      "url": "https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268",
+      "comments": 5,
+      "score": 104,
+      "user": "coloneltcb",
+      "age": "1 hour ago"
+    },
+    {
+      "title": "AMD unveils Ryzen Pro 8000-series processors",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market",
+      "comments": 29,
+      "score": 45,
+      "user": "marban",
+      "age": "1 hour ago"
     },
     {
       "title": "BTFS: BitTorrent Filesystem",
       "url": "https://github.com/johang/btfs",
-      "comments": 60,
-      "score": 220,
+      "comments": 89,
+      "score": 294,
       "user": "pyinstallwoes",
-      "age": "9 hours ago"
+      "age": "14 hours ago"
+    },
+    {
+      "title": "Ice to treat soft-tissue injuries contraindicated by creator of protocol",
+      "url": "https://en.wikipedia.org/wiki/RICE_(medicine)",
+      "comments": 36,
+      "score": 50,
+      "user": "stank345",
+      "age": "2 hours ago"
+    },
+    {
+      "title": "Show HN: a Rust based CLI tool 'imgcatr' for displaying images",
+      "url": "https://github.com/SilinMeng0510/imgcatr",
+      "comments": 34,
+      "score": 72,
+      "user": "cheeseisinsane",
+      "age": "6 hours ago"
+    },
+    {
+      "title": "OneSignal (YC S11) Is Hiring Engineers",
+      "url": "https://onesignal.com/careers#section-job",
+      "comments": 0,
+      "score": 0,
+      "user": "",
+      "age": "2 hours ago"
     },
     {
       "title": "HonoJS: Small, simple, and ultrafast web framework for the Edges",
       "url": "https://github.com/honojs/hono",
-      "comments": 33,
-      "score": 112,
+      "comments": 55,
+      "score": 220,
       "user": "nateb2022",
-      "age": "8 hours ago"
+      "age": "14 hours ago"
     },
     {
-      "title": "Ramanujan's lost notebook",
-      "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook",
-      "comments": 53,
-      "score": 207,
-      "user": "benbreen",
-      "age": "13 hours ago"
+      "title": "Creating sexually explicit deepfake images to be made offence in UK",
+      "url": "https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk",
+      "comments": 2,
+      "score": 8,
+      "user": "thunderbong",
+      "age": "18 minutes ago"
     },
     {
-      "title": "Show HN: Render audio waveforms to HTML canvas using WebGPU",
-      "url": "item?id=40046774",
-      "comments": 36,
-      "score": 101,
-      "user": "aylmao",
-      "age": "9 hours ago"
+      "title": "Mobile Ad Blocker Will No Longer Stop YouTube's Ads",
+      "url": "https://gizmodo.com/your-mobile-ad-blocker-will-no-longer-stop-youtubes-ads-1851412797",
+      "comments": 19,
+      "score": 17,
+      "user": "Hary06",
+      "age": "48 minutes ago"
+    },
+    {
+      "title": "People who don't want to learn how to program can always find a reason not to",
+      "url": "https://twitter.com/paulg/status/1779930175574090094",
+      "comments": 42,
+      "score": 39,
+      "user": "lopkeny12ko",
+      "age": "41 minutes ago"
     },
     {
       "title": "ResearchAgent: Iterative Research Idea Generation Using LLMs",
       "url": "https://arxiv.org/abs/2404.07738",
-      "comments": 37,
-      "score": 75,
+      "comments": 46,
+      "score": 100,
       "user": "milliondreams",
-      "age": "8 hours ago"
-    },
-    {
-      "title": "Beautifying Org Mode in Emacs (2018)",
-      "url": "https://zzamboni.org/post/beautifying-org-mode-in-emacs/",
-      "comments": 2,
-      "score": 12,
-      "user": "tosh",
-      "age": "4 hours ago"
-    },
-    {
-      "title": "Knuth–Morris–Pratt illustrated",
-      "url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4",
-      "comments": 27,
-      "score": 112,
-      "user": "g0xA52A2A",
-      "age": "12 hours ago"
-    },
-    {
-      "title": "Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun",
-      "url": "https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun",
-      "comments": 6,
-      "score": 14,
-      "user": "c-flow",
-      "age": "1 hour ago"
-    },
-    {
-      "title": "California exceeds 100% of energy demand with renewables over a record 30 days",
-      "url": "https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/",
-      "comments": 91,
-      "score": 101,
-      "user": "benkan",
-      "age": "3 hours ago"
-    },
-    {
-      "title": "Weird monitor bugs people sent me in the last 5 years (2022)",
-      "url": "https://notes.alinpanaitiu.com/Weird-monitor-bugs",
-      "comments": 21,
-      "score": 117,
-      "user": "fanf2",
-      "age": "11 hours ago"
-    },
-    {
-      "title": "Google Common Lisp Style Guide",
-      "url": "https://google.github.io/styleguide/lispguide.xml",
-      "comments": 15,
-      "score": 41,
-      "user": "susam",
-      "age": "10 hours ago"
-    },
-    {
-      "title": "My battle with Tesla: I want to clear my name before I die",
-      "url": "https://www.bbc.co.uk/news/articles/cg3q95ednqwo",
-      "comments": 19,
-      "score": 70,
-      "user": "user20180120",
-      "age": "3 hours ago"
-    },
-    {
-      "title": "Mini rope bridges built in Forest of Dean to help dormice",
-      "url": "https://www.bbc.com/news/uk-england-gloucestershire-68788690",
-      "comments": 20,
-      "score": 78,
-      "user": "defrost",
       "age": "14 hours ago"
+    },
+    {
+      "title": "Thoughts on low latency trading if exchanges went full cloud",
+      "url": "https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/",
+      "comments": 89,
+      "score": 105,
+      "user": "arcza",
+      "age": "3 hours ago"
     },
     {
       "title": "Reproducing the printer hack of Windows 95",
       "url": "https://dpolakovic.space/blogs/windows-95-printer-hack",
-      "comments": 11,
-      "score": 30,
+      "comments": 30,
+      "score": 68,
       "user": "dpola",
-      "age": "8 hours ago"
-    },
-    {
-      "title": "Show HN: Building a GPS receiver",
-      "url": "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/",
-      "comments": 97,
-      "score": 411,
-      "user": "codyd51",
-      "age": "18 hours ago"
-    },
-    {
-      "title": "Histomap: Visualizing the 4000 year history of global power (2021)",
-      "url": "https://www.visualcapitalist.com/histomap/",
-      "comments": 19,
-      "score": 57,
-      "user": "bschne",
       "age": "14 hours ago"
     },
     {
-      "title": "How much memory does a graph take?",
-      "url": "https://jazco.dev/2024/04/15/in-memory-graphs/",
-      "comments": 12,
-      "score": 63,
-      "user": "goranmoomin",
-      "age": "11 hours ago"
-    },
-    {
-      "title": "If you put server code in your live-service game client, expect private servers",
-      "url": "https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/",
-      "comments": 12,
-      "score": 67,
-      "user": "Gamemaster1379",
-      "age": "13 hours ago"
-    },
-    {
-      "title": "Learning about distributed systems: where to start?",
-      "url": "http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html",
-      "comments": 27,
-      "score": 96,
-      "user": "udev4096",
-      "age": "11 hours ago"
-    },
-    {
-      "title": "The Heart of Low",
-      "url": "https://www.newyorker.com/culture/persons-of-interest/alan-sparhawk-the-heart-of-low",
-      "comments": 7,
-      "score": 18,
-      "user": "tintinnabula",
+      "title": "Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]",
+      "url": "https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf",
+      "comments": 9,
+      "score": 21,
+      "user": "luu",
       "age": "7 hours ago"
     },
     {
-      "title": "'The Invention of Prehistory' Review: Facing Deep Time",
-      "url": "https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc",
-      "comments": 0,
-      "score": 5,
-      "user": "Hooke",
-      "age": "4 hours ago"
+      "title": "$10M in Gold Disguised as Machine Parts Seized from Cargo Plane",
+      "url": "https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958",
+      "comments": 70,
+      "score": 63,
+      "user": "mhb",
+      "age": "2 hours ago"
     },
     {
-      "title": "Geometers Engineer New Tools to Wrangle Spacecraft Orbits",
-      "url": "https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/",
-      "comments": 4,
-      "score": 38,
-      "user": "piotrkaminski",
-      "age": "12 hours ago"
+      "title": "Ramanujan's lost notebook",
+      "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook",
+      "comments": 67,
+      "score": 248,
+      "user": "benbreen",
+      "age": "19 hours ago"
     },
     {
-      "title": "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
-      "url": "https://skio.com/careers/",
-      "comments": 0,
-      "score": 0,
-      "user": "",
-      "age": "12 hours ago"
+      "title": "Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun",
+      "url": "https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun",
+      "comments": 48,
+      "score": 58,
+      "user": "c-flow",
+      "age": "7 hours ago"
     },
     {
-      "title": "Show HN: YouTube Shorts Redirector",
-      "url": "https://github.com/adamenger/youtube-shorts-redirector",
-      "comments": 10,
-      "score": 24,
-      "user": "donutpepperoni",
-      "age": "8 hours ago"
+      "title": "Knuth–Morris–Pratt illustrated",
+      "url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4",
+      "comments": 42,
+      "score": 151,
+      "user": "g0xA52A2A",
+      "age": "18 hours ago"
     },
     {
-      "title": "Object that slammed into Florida home was space junk for ISS, NASA confirms",
-      "url": "https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms",
-      "comments": 74,
-      "score": 96,
-      "user": "anigbrowl",
-      "age": "8 hours ago"
+      "title": "The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016)",
+      "url": "https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/",
+      "comments": 2,
+      "score": 10,
+      "user": "chaosprint",
+      "age": "7 hours ago"
     },
     {
-      "title": "Nathan Tolbert pushes the limitations of new games on old consoles",
-      "url": "https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/",
-      "comments": 22,
-      "score": 87,
-      "user": "masterofsome",
-      "age": "12 hours ago"
+      "title": "Show HN: Render audio waveforms to HTML canvas using WebGPU",
+      "url": "item?id=40046774",
+      "comments": 46,
+      "score": 129,
+      "user": "aylmao",
+      "age": "15 hours ago"
     }
   ],
   "101-200": [
     {
+      "title": "Descent 3 Source Code",
+      "url": "https://github.com/kevinbentley/Descent3",
+      "comments": 199,
+      "score": 855,
+      "user": "kevin42",
+      "age": "11 hours ago"
+    },
+    {
+      "title": "A curious phenomenon called 'Etak'",
+      "url": "https://maphappenings.com/2024/04/11/story-of-etak/",
+      "comments": 120,
+      "score": 472,
+      "user": "MBCook",
+      "age": "12 hours ago"
+    },
+    {
       "title": "PuTTY vulnerability vuln-p521-bias",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html",
-      "comments": 156,
-      "score": 419,
+      "comments": 182,
+      "score": 483,
       "user": "aardvark179",
-      "age": "13 hours ago"
+      "age": "19 hours ago"
+    },
+    {
+      "title": "Show HN: Building a GPS receiver",
+      "url": "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/",
+      "comments": 118,
+      "score": 467,
+      "user": "codyd51",
+      "age": "1 day ago"
+    },
+    {
+      "title": "Object that slammed into Florida home was space junk for ISS, NASA confirms",
+      "url": "https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms",
+      "comments": 132,
+      "score": 156,
+      "user": "anigbrowl",
+      "age": "14 hours ago"
+    }
+  ],
+  "201-300": [
+    {
+      "title": "To make a fortune, target bored young men who want to make a fortune",
+      "url": "https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4",
+      "comments": 258,
+      "score": 93,
+      "user": "pseudolus",
+      "age": "1 hour ago"
     },
     {
       "title": "Phone conversations with law enforcement can be recorded without their consent",
       "url": "https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808",
-      "comments": 151,
-      "score": 271,
+      "comments": 242,
+      "score": 339,
       "user": "jdmark",
-      "age": "13 hours ago"
+      "age": "19 hours ago"
     }
   ],
-  "201-300": [],
   "301-n": []
 }
